@@ -1,0 +1,42 @@
+Making API request: POST https://api.twitter.com/2/tweets
+Parameters: {}
+Headers: {'User-Agent': 'Python/3.9.6 Requests/2.28.0 Tweepy/4.10.0'}
+Body: {'text': "If a frog's mouth is held open for too long the frog will suffocate."}
+Received API response: 403 Forbidden
+Headers: {'date': 'Sat, 18 Jun 2022 12:18:30 UTC', 'server': 'tsa_k', 'set-cookie': 'guest_id_marketing=v1%3A165555471084144869; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:18:30 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, guest_id_ads=v1%3A165555471084144869; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:18:30 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, personalization_id="v1_Rsy8SNI5IDAujAgKm7Ec1A=="; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:18:30 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, guest_id=v1%3A165555471084144869; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:18:30 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None', 'api-version': '2.45', 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache, no-store, max-age=0', 'content-length': '86', 'x-access-level': 'read', 'x-frame-options': 'SAMEORIGIN', 'content-encoding': 'gzip', 'x-xss-protection': '0', 'x-rate-limit-limit': '3000', 'x-rate-limit-reset': '1655555610', 'content-disposition': 'attachment; filename=json.json', 'x-content-type-options': 'nosniff', 'x-rate-limit-remaining': '2999', 'strict-transport-security': 'max-age=631138519', 'x-response-time': '180', 'x-connection-hash': 'bfbdef7767e86993d04215a59b9d012c861c38fb196910828823df84eab4eaee'}
+Content: b'{"title":"Forbidden","detail":"Forbidden","type":"about:blank","status":403}'
+Making API request: POST https://api.twitter.com/2/tweets
+Parameters: {}
+Headers: {'User-Agent': 'Python/3.9.6 Requests/2.28.0 Tweepy/4.10.0'}
+Body: {'text': 'A group of frogs is called an army.'}
+Received API response: 403 Forbidden
+Headers: {'date': 'Sat, 18 Jun 2022 12:19:11 UTC', 'server': 'tsa_k', 'set-cookie': 'guest_id_marketing=v1%3A165555475129560625; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:19:11 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, guest_id_ads=v1%3A165555475129560625; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:19:11 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, personalization_id="v1_cNgnHr8XQm20wr3gF6Y+4Q=="; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:19:11 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, guest_id=v1%3A165555475129560625; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:19:11 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None', 'api-version': '2.45', 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache, no-store, max-age=0', 'content-length': '86', 'x-access-level': 'read', 'x-frame-options': 'SAMEORIGIN', 'content-encoding': 'gzip', 'x-xss-protection': '0', 'x-rate-limit-limit': '3000', 'x-rate-limit-reset': '1655555651', 'content-disposition': 'attachment; filename=json.json', 'x-content-type-options': 'nosniff', 'x-rate-limit-remaining': '2999', 'strict-transport-security': 'max-age=631138519', 'x-response-time': '187', 'x-connection-hash': '6a9a0234b56b870911dc124a32a3b33e18645faa1b93972cfad60dd628051ddd'}
+Content: b'{"title":"Forbidden","detail":"Forbidden","type":"about:blank","status":403}'
+Making API request: POST https://api.twitter.com/2/tweets
+Parameters: {}
+Headers: {'User-Agent': 'Python/3.9.6 Requests/2.28.0 Tweepy/4.10.0'}
+Body: {'text': 'Greenland is the largest island in the world.'}
+Received API response: 403 Forbidden
+Headers: {'date': 'Sat, 18 Jun 2022 12:25:24 UTC', 'server': 'tsa_k', 'set-cookie': 'guest_id_marketing=v1%3A165555512408959126; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:25:24 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, guest_id_ads=v1%3A165555512408959126; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:25:24 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, personalization_id="v1_69xYRnD7gauaAZyywKljkg=="; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:25:24 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, guest_id=v1%3A165555512408959126; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:25:24 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None', 'api-version': '2.45', 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache, no-store, max-age=0', 'content-length': '86', 'x-access-level': 'read', 'x-frame-options': 'SAMEORIGIN', 'content-encoding': 'gzip', 'x-xss-protection': '0', 'x-rate-limit-limit': '3000', 'x-rate-limit-reset': '1655555651', 'content-disposition': 'attachment; filename=json.json', 'x-content-type-options': 'nosniff', 'x-rate-limit-remaining': '2998', 'strict-transport-security': 'max-age=631138519', 'x-response-time': '189', 'x-connection-hash': '6dc837a01c273d235946fffbab97ffd52f4fd49db0da844150ad346b9dc9816f'}
+Content: b'{"title":"Forbidden","detail":"Forbidden","type":"about:blank","status":403}'
+Making API request: POST https://api.twitter.com/2/tweets
+Parameters: {}
+Headers: {'User-Agent': 'Python/3.9.6 Requests/2.28.0 Tweepy/4.10.0'}
+Body: {'text': 'If the Earth was smooth, the ocean would cover the entire surface to a depth of 12,000 feet.'}
+Received API response: 403 Forbidden
+Headers: {'date': 'Sat, 18 Jun 2022 12:54:19 UTC', 'server': 'tsa_k', 'set-cookie': 'guest_id_marketing=v1%3A165555685968403943; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:54:19 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, guest_id_ads=v1%3A165555685968403943; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:54:19 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, personalization_id="v1_Qczkb1mfTWy77SZuPI3syg=="; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:54:19 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, guest_id=v1%3A165555685968403943; Max-Age=63072000; Expires=Mon, 17 Jun 2024 12:54:19 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None', 'api-version': '2.45', 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache, no-store, max-age=0', 'content-length': '86', 'x-access-level': 'read', 'x-frame-options': 'SAMEORIGIN', 'content-encoding': 'gzip', 'x-xss-protection': '0', 'x-rate-limit-limit': '3000', 'x-rate-limit-reset': '1655557759', 'content-disposition': 'attachment; filename=json.json', 'x-content-type-options': 'nosniff', 'x-rate-limit-remaining': '2999', 'strict-transport-security': 'max-age=631138519', 'x-response-time': '187', 'x-connection-hash': 'a1d3a02f2026096d959dd2e57833bf35024258e9c59c8c44cec848e77cb73eb0'}
+Content: b'{"title":"Forbidden","detail":"Forbidden","type":"about:blank","status":403}'
+Making API request: POST https://api.twitter.com/2/tweets
+Parameters: {}
+Headers: {'User-Agent': 'Python/3.9.6 Requests/2.28.0 Tweepy/4.10.0'}
+Body: {'text': 'If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.'}
+Received API response: 401 Unauthorized
+Headers: {'content-type': 'application/problem+json', 'cache-control': 'no-cache, no-store, max-age=0', 'content-length': '99', 'x-response-time': '168', 'x-connection-hash': '34adb2966251fc2b1181cc436dee8cd3f278b3cdf30e9277790ff40387479635', 'date': 'Sat, 18 Jun 2022 13:04:28 GMT', 'server': 'tsa_k'}
+Content: b'{\n  "title": "Unauthorized",\n  "type": "about:blank",\n  "status": 401,\n  "detail": "Unauthorized"\n}'
+Making API request: POST https://api.twitter.com/2/tweets
+Parameters: {}
+Headers: {'User-Agent': 'Python/3.9.6 Requests/2.28.0 Tweepy/4.10.0'}
+Body: {'text': 'In the 1930′s, American track star Jesse Owens used to race against horses and dogs to earn a living.'}
+Received API response: 401 Unauthorized
+Headers: {'content-type': 'application/problem+json', 'cache-control': 'no-cache, no-store, max-age=0', 'content-length': '99', 'x-response-time': '178', 'x-connection-hash': '7f6ae4194f221fec2932dbe41adf72f98f56b34757141170ca72ffab221fa4a4', 'date': 'Sat, 18 Jun 2022 13:05:46 GMT', 'server': 'tsa_k'}
+Content: b'{\n  "title": "Unauthorized",\n  "type": "about:blank",\n  "status": 401,\n  "detail": "Unauthorized"\n}'

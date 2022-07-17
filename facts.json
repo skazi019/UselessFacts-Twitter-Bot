@@ -1,0 +1,3605 @@
+{
+    "day": 1,
+    "facts": [
+        {
+            "id": 0,
+            "fact": "Every person, including identical twins, has a unique eye & tongue print along with their finger print.",
+            "posted": 0
+        },
+        {
+            "id": 1,
+            "fact": "If monkeys eat too many un-ripe bananas their tongue and eyes will turn green.",
+            "posted": 0
+        },
+        {
+            "id": 2,
+            "fact": "A female oyster produces 100 million young in her lifetime, the typical hen lays 19 dozen eggs a year, and it is possible for one female cat to be responsible for the birth of 20,736 kittens in four years. Michelle Druggar holds the record for largest human family, having given birth to 17 children.",
+            "posted": 0
+        },
+        {
+            "id": 3,
+            "fact": "Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest.",
+            "posted": 0
+        },
+        {
+            "id": 4,
+            "fact": "There are over a million described species of insects. Some people estimate there are actually between 15 and 30 million species.",
+            "posted": 0
+        },
+        {
+            "id": 5,
+            "fact": "In the Scottish Hebrides, an island is defined as being an island only if it is big enough to sustain 1 sheep.",
+            "posted": 0
+        },
+        {
+            "id": 6,
+            "fact": "There are crabs that are the size of a pea. There are known as ‘Pea Crabs’. ",
+            "posted": 0
+        },
+        {
+            "id": 7,
+            "fact": "Chicken today contains 266 percent more fat than it did 40 years ago.",
+            "posted": 0
+        },
+        {
+            "id": 8,
+            "fact": "A shark can detect one part of blood in 100 million parts of water.",
+            "posted": 0
+        },
+        {
+            "id": 9,
+            "fact": "Bob Dylan's real name is Robert Zimmerman.",
+            "posted": 0
+        },
+        {
+            "id": 10,
+            "fact": "There is no solid proof of who built the Taj Mahal.",
+            "posted": 0
+        },
+        {
+            "id": 11,
+            "fact": "Representations of butterflies are seen in Egyptian frescoes at Thebes, which are 3,500 years old.",
+            "posted": 0
+        },
+        {
+            "id": 12,
+            "fact": "7-Up – invented in 1920 contained Lithium – the drug commonly prescribed now to sufferers of bi-polar disorder.",
+            "posted": 0
+        },
+        {
+            "id": 13,
+            "fact": "An enneahedron is solid with nine faces.",
+            "posted": 0
+        },
+        {
+            "id": 14,
+            "fact": "There is an average of 61,000 people airborne over the US at any given moment.",
+            "posted": 0
+        },
+        {
+            "id": 15,
+            "fact": "Although modern images of India often show poverty and lack of development, India was the richest country on earth until the time of British invasion in the early 17th Century.",
+            "posted": 0
+        },
+        {
+            "id": 16,
+            "fact": "Alligators cannot move backwards.",
+            "posted": 0
+        },
+        {
+            "id": 17,
+            "fact": "The human body is comprised of 80% water.",
+            "posted": 0
+        },
+        {
+            "id": 18,
+            "fact": "Chuck Norris once got bit by a rattle snake…….. After three days of pain and agony ………………the rattle snake died",
+            "posted": 0
+        },
+        {
+            "id": 19,
+            "fact": "Rats and horses can’t vomit.",
+            "posted": 0
+        },
+        {
+            "id": 20,
+            "fact": "Camel's milk does not curdle.",
+            "posted": 0
+        },
+        {
+            "id": 21,
+            "fact": "It is illegal to hunt camels in the state of Arizona.",
+            "posted": 0
+        },
+        {
+            "id": 22,
+            "fact": "A poem written to celebrate a wedding is called a epithalamium.",
+            "posted": 0
+        },
+        {
+            "id": 23,
+            "fact": "Dr. Seuss pronounced his name 'soyce'.",
+            "posted": 0
+        },
+        {
+            "id": 24,
+            "fact": "Lizards can self-amputate their tails for protection. It grows back after a few months.",
+            "posted": 0
+        },
+        {
+            "id": 25,
+            "fact": "Most lipstick contains fish scales.",
+            "posted": 0
+        },
+        {
+            "id": 26,
+            "fact": "Chuck Norris does not sleep. He waits.",
+            "posted": 0
+        },
+        {
+            "id": 27,
+            "fact": "Chinese Crested dogs can get acne. ",
+            "posted": 0
+        },
+        {
+            "id": 28,
+            "fact": "During the hundred days of the opening games at the Colosseum in Rome, in 80 A.D., over 5,000 animals were killed, including elephants, tigers, lions, elks, hyenas, hippopotamuses, and giraffes.",
+            "posted": 0
+        },
+        {
+            "id": 29,
+            "fact": "The cheetah is the only cat that can't retract its claws.",
+            "posted": 0
+        },
+        {
+            "id": 30,
+            "fact": "Because of the rotation of the earth, an object can be thrown farther if it is thrown west.",
+            "posted": 0
+        },
+        {
+            "id": 31,
+            "fact": "Ramses brand condom is named after the great pharaoh Ramses II who fathered over 160 children.",
+            "posted": 0
+        },
+        {
+            "id": 32,
+            "fact": "Grapes explode when you put them in the microwave. You have been warned!",
+            "posted": 0
+        },
+        {
+            "id": 33,
+            "fact": "Dartboards are made out of horse hairs.",
+            "posted": 0
+        },
+        {
+            "id": 34,
+            "fact": "Never get a camel angry, for he or she will spit at you. ",
+            "posted": 0
+        },
+        {
+            "id": 35,
+            "fact": "A blind chameleon still changes colors to match his environment.",
+            "posted": 0
+        },
+        {
+            "id": 36,
+            "fact": "A necropsy is an autopsy on animals.",
+            "posted": 0
+        },
+        {
+            "id": 37,
+            "fact": "Gorillas often sleep for up to fourteen hours a day.",
+            "posted": 0
+        },
+        {
+            "id": 38,
+            "fact": "Only female mosquitoes bite.",
+            "posted": 0
+        },
+        {
+            "id": 39,
+            "fact": "If you feed a seagull Alka-Seltzer, its stomach will explode.",
+            "posted": 0
+        },
+        {
+            "id": 40,
+            "fact": "It is estimated that millions of trees are planted by forgetful squirrels.",
+            "posted": 0
+        },
+        {
+            "id": 41,
+            "fact": "The international telephone dialing code for Antarctica is 672.",
+            "posted": 0
+        },
+        {
+            "id": 42,
+            "fact": "I am. is the shortest complete sentence in the English language.",
+            "posted": 0
+        },
+        {
+            "id": 43,
+            "fact": "The electric chair was invented by a dentist.",
+            "posted": 0
+        },
+        {
+            "id": 44,
+            "fact": "John Adams, Thomas Jefferson, and James Monroe died on July 4th.",
+            "posted": 0
+        },
+        {
+            "id": 45,
+            "fact": "The first McDonald's restaurant in Canada was in Richmond, British Columbia.",
+            "posted": 0
+        },
+        {
+            "id": 46,
+            "fact": "In 1905, 18 men died from injuries sustained on the football field. President Theodore Roosevelt stepped in and instituted safety measures to make the game safer.",
+            "posted": 0
+        },
+        {
+            "id": 47,
+            "fact": "Human birth control pills work on gorillas.",
+            "posted": 0
+        },
+        {
+            "id": 48,
+            "fact": "In the four professional major north american sports (baseball, basketball, football and hockey) only 7 teams whose nicknames do not end with an s. These teams are the Miami Heat, the Utah Jazz, the Orlando Magic, the Boston Red Sox, the Chicago White Sox, the Colorado Avalanche, and the Tampa Bay Lightning.",
+            "posted": 0
+        },
+        {
+            "id": 49,
+            "fact": "Negative emotions such as anxiety and depression can weaken your immune system.",
+            "posted": 0
+        },
+        {
+            "id": 50,
+            "fact": "Cat’s urine glows under a black light.",
+            "posted": 0
+        },
+        {
+            "id": 51,
+            "fact": "The first players elected to Baseball Hall of Fame were Ty Cobb, Babe Ruth, Honus Wagner, Christy Mathewson & Walter Johnson in 1936",
+            "posted": 0
+        },
+        {
+            "id": 52,
+            "fact": "Antarctica's residents are scientific and support staffs who usually stay no more than a year at a time.",
+            "posted": 0
+        },
+        {
+            "id": 53,
+            "fact": "Ketchup was originally a fish sauce originating in the orient",
+            "posted": 0
+        },
+        {
+            "id": 54,
+            "fact": "Hummingbirds are the only animals that can fly backwards. ",
+            "posted": 0
+        },
+        {
+            "id": 55,
+            "fact": "The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.",
+            "posted": 0
+        },
+        {
+            "id": 56,
+            "fact": "People eat insects – called 'Entomophagy'(people eating bugs) – it has been practiced for centuries throughout Africa, Australia, Asia, the Middle East, and North, Central and South America. Why? Because many bugs are both protein-rich and good sources of vitamins, minerals and fats.",
+            "posted": 0
+        },
+        {
+            "id": 57,
+            "fact": "Astronaut Neil Armstrong first stepped on the moon with his left foot.",
+            "posted": 0
+        },
+        {
+            "id": 58,
+            "fact": "Coconut water can be used in an emergency as a substitute for blood plasma.",
+            "posted": 0
+        },
+        {
+            "id": 59,
+            "fact": "The oldest continuous trophy in sports is the America’s Cup. It started in 1851, with Americans winning for a straight 132 years until Australia took the Cup in 1983.",
+            "posted": 0
+        },
+        {
+            "id": 60,
+            "fact": "A spider's web is not a home, but rather a trap for its food. They are as individual as snowflakes, with no two ever being the same. Some tropical spiders have built webs over eighteen feet across.",
+            "posted": 0
+        },
+        {
+            "id": 61,
+            "fact": "The city of Venice stands on about 120 small islands.",
+            "posted": 0
+        },
+        {
+            "id": 62,
+            "fact": "Harvard uses Yale brand locks on their buildings;Yale uses Best brand.",
+            "posted": 0
+        },
+        {
+            "id": 63,
+            "fact": "The Morgan's Sphinx Moth from Madagascar has a proboscis (tube mouth) that is 12 to 14 inches long to get the nectar from the bottom of a 12 inch deep orchid discovered by Charles Darwin.",
+            "posted": 0
+        },
+        {
+            "id": 64,
+            "fact": "Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).",
+            "posted": 0
+        },
+        {
+            "id": 65,
+            "fact": "A shark can detect one part of blood in 100 million parts of water.",
+            "posted": 0
+        },
+        {
+            "id": 66,
+            "fact": "Some moths never eat anything as adults because they don't have mouths. They must live on the energy they stored as caterpillars.",
+            "posted": 0
+        },
+        {
+            "id": 67,
+            "fact": "Children grow faster in the springtime.",
+            "posted": 0
+        },
+        {
+            "id": 68,
+            "fact": "A male chimpanzee is 5 times hornier than the average human male.",
+            "posted": 0
+        },
+        {
+            "id": 69,
+            "fact": "Bananas are about 99.5% fat free.",
+            "posted": 0
+        },
+        {
+            "id": 70,
+            "fact": "Boxing became a legal sport in 1901.",
+            "posted": 0
+        },
+        {
+            "id": 71,
+            "fact": "In Paris, the McDonalds big 'M' is the only one in the world that is white, rather than yellow, it was thought that yellow was too tacky.",
+            "posted": 0
+        },
+        {
+            "id": 72,
+            "fact": "Herons have been observed to drop insects on the water and then catch the fish that surface for the bugs.",
+            "posted": 0
+        },
+        {
+            "id": 73,
+            "fact": "There are over 500 different types of bananas. That means if you ate a different kind of banana everyday, it would take almost a year and a half to eat every one!",
+            "posted": 0
+        },
+        {
+            "id": 74,
+            "fact": "Broccoli and cauliflower are the only vegetables that are flowers.",
+            "posted": 0
+        },
+        {
+            "id": 75,
+            "fact": "It is believed that Shakespeare was 46 around the time that the King James Version of the Bible was written. In Psalms 46, the 46th word from the first word is shake and the 46th word from the last word is spear.",
+            "posted": 0
+        },
+        {
+            "id": 76,
+            "fact": "Chuck Norris doesn’t mow his lawn, he dares his grass to grow",
+            "posted": 0
+        },
+        {
+            "id": 77,
+            "fact": "Sports command the biggest television audiences, led by the summer Olympics, World Cup Football and Formula One racing.",
+            "posted": 0
+        },
+        {
+            "id": 78,
+            "fact": "The male gypsy moth can smell the virgin female gypsy moth from 8 miles away.",
+            "posted": 0
+        },
+        {
+            "id": 79,
+            "fact": "The average human blinks their eyes 6,205,000 times each year.",
+            "posted": 0
+        },
+        {
+            "id": 80,
+            "fact": "Prisons don’t keep society safe from criminals. Prisons keep criminals safe from Chuck Norris, for now.",
+            "posted": 0
+        },
+        {
+            "id": 81,
+            "fact": "The New York Yankees have won 26 World Series titles, which is more than any other team.",
+            "posted": 0
+        },
+        {
+            "id": 82,
+            "fact": "Dr. Seuss coined the word nerd in his 1950 book 'If I Ran The Zoo.'",
+            "posted": 0
+        },
+        {
+            "id": 83,
+            "fact": "A group of owls is called a parliament.",
+            "posted": 0
+        },
+        {
+            "id": 84,
+            "fact": "The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.",
+            "posted": 0
+        },
+        {
+            "id": 85,
+            "fact": "Some magicans can walk on water, Chuck Norris can swim through land.",
+            "posted": 0
+        },
+        {
+            "id": 86,
+            "fact": "American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first class.",
+            "posted": 0
+        },
+        {
+            "id": 87,
+            "fact": "There are over 70,000 types of spiders spinning their webs in the world. ",
+            "posted": 0
+        },
+        {
+            "id": 88,
+            "fact": "Adolf Hitler was a vegetarian, and had only ONE testicle.",
+            "posted": 0
+        },
+        {
+            "id": 89,
+            "fact": "About 500 movies are made in the US and 800 in India annually.",
+            "posted": 0
+        },
+        {
+            "id": 90,
+            "fact": "In Irian, Jaya exists a tribe of tall. white people whose parrots are a warning sign against intruders.",
+            "posted": 0
+        },
+        {
+            "id": 91,
+            "fact": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
+            "posted": 0
+        },
+        {
+            "id": 92,
+            "fact": "A cockroach can live several weeks with its head cut off!",
+            "posted": 0
+        },
+        {
+            "id": 93,
+            "fact": "A snail can sleep for three years. ",
+            "posted": 0
+        },
+        {
+            "id": 94,
+            "fact": "Dominica, Mexico, Zambia, Kiribati, Fiji and Egypt all have birds on their flags.",
+            "posted": 0
+        },
+        {
+            "id": 95,
+            "fact": "In England, in the 1880's pants was considered a dirty word.",
+            "posted": 0
+        },
+        {
+            "id": 96,
+            "fact": "There are no words in the dictionary that rhyme with orange, purple, silver and month.",
+            "posted": 0
+        },
+        {
+            "id": 97,
+            "fact": "An average human loses about 200 head hairs per day.",
+            "posted": 0
+        },
+        {
+            "id": 98,
+            "fact": "A large swarm of locusts can eat 80,000 tons of corn in a day.",
+            "posted": 0
+        },
+        {
+            "id": 99,
+            "fact": "Hippopotamuses do eighty percent of their vocalization under water.",
+            "posted": 0
+        },
+        {
+            "id": 100,
+            "fact": "A lump of pure gold the size of a matchbox car can be flattened into a sheet the size of a tennis court.",
+            "posted": 0
+        },
+        {
+            "id": 101,
+            "fact": "A jiffy is an actual unit of time for 1/100th of a second. Thus the saying, I will be there in a jiffy!",
+            "posted": 0
+        },
+        {
+            "id": 102,
+            "fact": "You can lead a cow upstairs but not downstairs.",
+            "posted": 0
+        },
+        {
+            "id": 103,
+            "fact": "Chuck Norris grew a beard at the age of eighteen. Seconds.",
+            "posted": 0
+        },
+        {
+            "id": 104,
+            "fact": "Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.",
+            "posted": 0
+        },
+        {
+            "id": 105,
+            "fact": "In 1961, MIT student Steve Russell, created SPACEWARS, the first interactive computer game, on a Digital PDP-1 (Programmed Data Processor-1) mainframe computer. Limited by the computer technology of the time, ASCII text characters were the 'graphics' and people could only play the game on a device that took up the floorspace of a small house.",
+            "posted": 0
+        },
+        {
+            "id": 106,
+            "fact": "$283,200 is the absolute highest amount of money you can win on Jeopardy.",
+            "posted": 0
+        },
+        {
+            "id": 107,
+            "fact": "Humphrey Bogart NEVER said 'Play it again, Sam' in Casablanca",
+            "posted": 0
+        },
+        {
+            "id": 108,
+            "fact": "Dueling is legal in Paraguay as long as both parties are registered blood donors.",
+            "posted": 0
+        },
+        {
+            "id": 109,
+            "fact": "If you look carefully at the picture of Mona Lisa, you will notice a bridge in the background.",
+            "posted": 0
+        },
+        {
+            "id": 110,
+            "fact": "Before the turn of the century, prize fighters fought bare fisted. Matches sometimes lasted more than one hundred rounds and were counted by knock outs.",
+            "posted": 0
+        },
+        {
+            "id": 111,
+            "fact": "Ghosts sit around the campfire and tell Chuck Norris stories.",
+            "posted": 0
+        },
+        {
+            "id": 112,
+            "fact": "The zorilla is the smelliest animal on the planet. It's anal glands can be smelled from half a mile away.",
+            "posted": 0
+        },
+        {
+            "id": 113,
+            "fact": "A square mile of fertile earth has 32,000,000 earthworms in it.",
+            "posted": 0
+        },
+        {
+            "id": 114,
+            "fact": "Carolyn Shoemaker has discovered 32 comets and approximately 300 asteroids.",
+            "posted": 0
+        },
+        {
+            "id": 115,
+            "fact": "There are about a million ants per person. Ants are very social animals and will live in colonies that can contain almost 500,000 ants.",
+            "posted": 0
+        },
+        {
+            "id": 116,
+            "fact": "Ignoramus: The grand jury used to write ignoramus on the back of indictments not found or not to be sent to court. This was often constructed as an indication of the stupidity of the jury, hence its present meaning.",
+            "posted": 0
+        },
+        {
+            "id": 117,
+            "fact": "When the Titanic sank, 2228 people were on it. Only 706 survived.",
+            "posted": 0
+        },
+        {
+            "id": 118,
+            "fact": "If you put a drop of liquor on a scorpion, it will instantly go mad and sting itself to death.",
+            "posted": 0
+        },
+        {
+            "id": 119,
+            "fact": "The average human head weighs about 8 pounds.",
+            "posted": 0
+        },
+        {
+            "id": 120,
+            "fact": "The elephant is the only mammal that can't jump.",
+            "posted": 0
+        },
+        {
+            "id": 121,
+            "fact": "In English, four is the only digit that has the same number of letters as its value.",
+            "posted": 0
+        },
+        {
+            "id": 122,
+            "fact": "A giraffe can clean its ears with its 21-inch tongue!",
+            "posted": 0
+        },
+        {
+            "id": 123,
+            "fact": "The 'Dull Men's Hall of Fame' is located in Carroll, Wisconsin.",
+            "posted": 0
+        },
+        {
+            "id": 124,
+            "fact": "In Hartford, Connecticut, it is illegal for a husband to kiss his wife on Sundays.",
+            "posted": 0
+        },
+        {
+            "id": 125,
+            "fact": "If you yelled for 8 years, 7 months and six days, you would have produced enough sound energy to heat one cup of coffee.",
+            "posted": 0
+        },
+        {
+            "id": 126,
+            "fact": "More people are afraid of spiders than death. Amazingly, few people are afraid of Champagne corks even though you are more likely to be killed by one than by a spider.",
+            "posted": 0
+        },
+        {
+            "id": 127,
+            "fact": "When Chuck Norris throws you into a bottomless pit, you hit the bottom.",
+            "posted": 0
+        },
+        {
+            "id": 128,
+            "fact": "Elephants are the only mammals that cannot jump.",
+            "posted": 0
+        },
+        {
+            "id": 129,
+            "fact": "You are more likely to be killed by a champagne cork than by a poisonous spider.",
+            "posted": 0
+        },
+        {
+            "id": 130,
+            "fact": "A rat can last longer without water than a camel.",
+            "posted": 0
+        },
+        {
+            "id": 131,
+            "fact": "Despite the white, fluffy appearance of Polar Bears fur, it actually has black skin.",
+            "posted": 0
+        },
+        {
+            "id": 132,
+            "fact": "If you come from Manchester, you are a Mancunian.",
+            "posted": 0
+        },
+        {
+            "id": 133,
+            "fact": "Hedenophobic means fear of pleasure.",
+            "posted": 0
+        },
+        {
+            "id": 134,
+            "fact": "Women blink nearly twice as much as men.",
+            "posted": 0
+        },
+        {
+            "id": 135,
+            "fact": "More people are killed each year from bees than from snakes.",
+            "posted": 0
+        },
+        {
+            "id": 136,
+            "fact": "There are 318,979,564,000 possible combinations of the first four moves in Chess.",
+            "posted": 0
+        },
+        {
+            "id": 137,
+            "fact": "Butterflies can see red, green, and yellow.",
+            "posted": 0
+        },
+        {
+            "id": 138,
+            "fact": "A creep is a metallurgical term for when something that is normally very strong bends because of gravity. This happens to many metals at high temperatures, where they won't melt but they will creep.",
+            "posted": 0
+        },
+        {
+            "id": 139,
+            "fact": "No piece of square dry paper can be folded in half more than 7 times",
+            "posted": 0
+        },
+        {
+            "id": 140,
+            "fact": "Some worms will eat themselves if they can't find any food!",
+            "posted": 0
+        },
+        {
+            "id": 141,
+            "fact": "A cow gives nearly 200,000 glasses of milk in her lifetime.",
+            "posted": 0
+        },
+        {
+            "id": 142,
+            "fact": "A lion in the wild usually makes no more than 20 kills a year.",
+            "posted": 0
+        },
+        {
+            "id": 143,
+            "fact": "In every episode of Seinfeld there is a Superman somewhere.",
+            "posted": 0
+        },
+        {
+            "id": 144,
+            "fact": "Tigers have striped skin, not just striped fur.",
+            "posted": 0
+        },
+        {
+            "id": 145,
+            "fact": "California consumes more bottled water than any other product.",
+            "posted": 0
+        },
+        {
+            "id": 146,
+            "fact": "The life of a housefly is only 14 days. ",
+            "posted": 0
+        },
+        {
+            "id": 147,
+            "fact": "The Automated Teller Machine (ATM) was introduced in England in 1965.",
+            "posted": 0
+        },
+        {
+            "id": 148,
+            "fact": "A mole can dig a tunnel 300 feet (91 m) long in just one night.",
+            "posted": 0
+        },
+        {
+            "id": 149,
+            "fact": "Most household dust is made of dead skin cells.",
+            "posted": 0
+        },
+        {
+            "id": 150,
+            "fact": "Every day, 7% of the US eats at McDonald’s.",
+            "posted": 0
+        },
+        {
+            "id": 151,
+            "fact": "About 200,000,000 M&Ms are sold each day in the United States.",
+            "posted": 0
+        },
+        {
+            "id": 152,
+            "fact": "Olympus Mons is the largest volcano in our solar system. All the moons of the solar system are named after Greek and Roman mythology, except the moons of Uranus which are named after Shakesperean characters.",
+            "posted": 0
+        },
+        {
+            "id": 153,
+            "fact": "There are 293 ways to make change for a dollar.",
+            "posted": 0
+        },
+        {
+            "id": 154,
+            "fact": "Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.",
+            "posted": 0
+        },
+        {
+            "id": 155,
+            "fact": "The state of Maryland has no natural Lakes.",
+            "posted": 0
+        },
+        {
+            "id": 156,
+            "fact": "Americans eat about 30 pounds of lettuce every year. That’s about five times more than what we ate in the early 1900s.",
+            "posted": 0
+        },
+        {
+            "id": 157,
+            "fact": "Rhinos are in the same family as horses, and are thought to have inspired the myth of the unicorn.",
+            "posted": 0
+        },
+        {
+            "id": 158,
+            "fact": "Right handed people live, on average, nine years longer than left-handed people",
+            "posted": 0
+        },
+        {
+            "id": 159,
+            "fact": "Sharon Stone was the first Star Search spokes model.",
+            "posted": 0
+        },
+        {
+            "id": 160,
+            "fact": "Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.",
+            "posted": 0
+        },
+        {
+            "id": 161,
+            "fact": "Buckingham Palace in England has over six hundred rooms.",
+            "posted": 0
+        },
+        {
+            "id": 162,
+            "fact": "When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.",
+            "posted": 0
+        },
+        {
+            "id": 163,
+            "fact": "About 14% of injecting drug users are HIV positive.",
+            "posted": 0
+        },
+        {
+            "id": 164,
+            "fact": "The top butterfly flight speed is 12 miles per hour. Some moths can fly 25 miles per hour!",
+            "posted": 0
+        },
+        {
+            "id": 165,
+            "fact": "Methane gas can often be seen bubbling up from the bottom of ponds. It is produced by the decomposition of dead plants and animals in the mud.",
+            "posted": 0
+        },
+        {
+            "id": 166,
+            "fact": "It can take as long as 4 hours to hard-boil an ostrich egg.",
+            "posted": 0
+        },
+        {
+            "id": 167,
+            "fact": "In golf, a ‘Bo Derek’ is a score of 10.",
+            "posted": 0
+        },
+        {
+            "id": 168,
+            "fact": "The name Jeep comes from 'GP', the army abbreviation for General Purpose.",
+            "posted": 0
+        },
+        {
+            "id": 169,
+            "fact": "Certain frogs can be frozen solid, then thawed, and survive.",
+            "posted": 0
+        },
+        {
+            "id": 170,
+            "fact": "In the Philippines, MABUHAY means Hello.",
+            "posted": 0
+        },
+        {
+            "id": 171,
+            "fact": "The distance between the pitcher’s rubber and home plate in baseball is 60 feet, 6 inches",
+            "posted": 0
+        },
+        {
+            "id": 172,
+            "fact": "The Chuck E. Cheese franchise was created by Atari, a resteraunt combining robotic animals and arcade games with family meals. They name the franchise a Pizza Time Theater. Chuck E. Cheese was first opened in 1977.",
+            "posted": 0
+        },
+        {
+            "id": 173,
+            "fact": "Lettuce is a member of the sunflower family.",
+            "posted": 0
+        },
+        {
+            "id": 174,
+            "fact": "If a horse wins a race “hands down” it means the jockey never raised his whip during the race.",
+            "posted": 0
+        },
+        {
+            "id": 175,
+            "fact": "On March 2, 1962, Philadelphia center Wilt Chamberlain scored 100 points in one game against New York. That is the most one player has ever scored in one game.",
+            "posted": 0
+        },
+        {
+            "id": 176,
+            "fact": "The hammerthrow is illegal as a high school sport in all states except Rhode Island.",
+            "posted": 0
+        },
+        {
+            "id": 177,
+            "fact": "Chuck Norris doesn’t wear a watch. HE decides what time it is.",
+            "posted": 0
+        },
+        {
+            "id": 178,
+            "fact": "In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.",
+            "posted": 0
+        },
+        {
+            "id": 179,
+            "fact": "Duff' is the decaying organic matter found on a forest floor.",
+            "posted": 0
+        },
+        {
+            "id": 180,
+            "fact": "A female swine, or a sow, will always have a even number of teats or nipples, usually twelve.",
+            "posted": 0
+        },
+        {
+            "id": 181,
+            "fact": "This is a mind-boggling fact – for each of the 600 million people there is about 200 million insects crawling, flying… ",
+            "posted": 0
+        },
+        {
+            "id": 182,
+            "fact": "Each year in America there are about 300,000 deaths that can be attributed to obesity.",
+            "posted": 0
+        },
+        {
+            "id": 183,
+            "fact": "It takes 3,000 cows to supply the NFL with enough leather for a year’s supply of footballs.",
+            "posted": 0
+        },
+        {
+            "id": 184,
+            "fact": "Clans long ago that wanted to get rid of their unwanted people without killing them use to burn down their houses--hence the expression get fired.",
+            "posted": 0
+        },
+        {
+            "id": 185,
+            "fact": "In the United States, lettuce is the second most popular fresh vegetable.",
+            "posted": 0
+        },
+        {
+            "id": 186,
+            "fact": "Bananas are a great source of potassium. Potassium helps build muscle power and keeps your body fluids in balance.",
+            "posted": 0
+        },
+        {
+            "id": 187,
+            "fact": "The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.",
+            "posted": 0
+        },
+        {
+            "id": 188,
+            "fact": "A skunk's smell can be detected by a human a mile away.",
+            "posted": 0
+        },
+        {
+            "id": 189,
+            "fact": "The first bomb the Allies dropped on Berlin in WWII killed the only elephant in the Berlin Zoo.",
+            "posted": 0
+        },
+        {
+            "id": 190,
+            "fact": "The only real person to be a PEZ head was Betsy Ross.",
+            "posted": 0
+        },
+        {
+            "id": 191,
+            "fact": "Proportional to their size, cats have the largest eyes of all mammals.",
+            "posted": 0
+        },
+        {
+            "id": 192,
+            "fact": "A rainbow can only occur when the sun is 40 degrees or less above the horizon.",
+            "posted": 0
+        },
+        {
+            "id": 193,
+            "fact": "In ancient Greece 'idiot' meant a private citizen or layman.",
+            "posted": 1
+        },
+        {
+            "id": 194,
+            "fact": "Death once had a near-Chuck Norris experience",
+            "posted": 0
+        },
+        {
+            "id": 195,
+            "fact": "Nutmeg is extremely poisonous if injected intravenously.",
+            "posted": 0
+        },
+        {
+            "id": 196,
+            "fact": "If you travel across the Russia, you will cross seven time zones.",
+            "posted": 0
+        },
+        {
+            "id": 197,
+            "fact": "The average raindrop falls at 7 miles per hour.",
+            "posted": 0
+        },
+        {
+            "id": 198,
+            "fact": "Elephants are the only mamals that can’t jump.",
+            "posted": 0
+        },
+        {
+            "id": 199,
+            "fact": "If Chuck Norris were to ever run out of ammo, his weapon would continue to fire out of fear of disappointing Chuck Norris.",
+            "posted": 0
+        },
+        {
+            "id": 200,
+            "fact": "Canada is the only country not to win a gold medal in the summer Olympic games while hosting.",
+            "posted": 0
+        },
+        {
+            "id": 201,
+            "fact": "In 1949, forecasting the relentless march of science, Popular Mechanics said computers in the future may weigh no more than 5 tons.",
+            "posted": 0
+        },
+        {
+            "id": 202,
+            "fact": "Pitcher Nolan Ryan played 27 seasons in major league baseball and struck out more batters in his career than any other pitcher",
+            "posted": 0
+        },
+        {
+            "id": 203,
+            "fact": "There are more than 7,000 varieties of apples grown in the world.",
+            "posted": 0
+        },
+        {
+            "id": 204,
+            "fact": "The male seahorse carries the eggs until they hatch instead of the female.",
+            "posted": 0
+        },
+        {
+            "id": 205,
+            "fact": "Ham radio operators got the term ham coined from the expression ham-fisted operators a term used to describe early radio users who sent Morse code (i.e pounded their fists).",
+            "posted": 0
+        },
+        {
+            "id": 206,
+            "fact": "There are no clocks in Las Vegas gambling casinos.",
+            "posted": 0
+        },
+        {
+            "id": 207,
+            "fact": "Venus is the only planet that rotates clockwise.",
+            "posted": 0
+        },
+        {
+            "id": 208,
+            "fact": "The national sport of Japan is sumo wrestling.",
+            "posted": 0
+        },
+        {
+            "id": 209,
+            "fact": "A dragonfly has a lifespan of 24 hours.",
+            "posted": 0
+        },
+        {
+            "id": 210,
+            "fact": "In England, the Speaker of the House is not allowed to speak. ",
+            "posted": 0
+        },
+        {
+            "id": 211,
+            "fact": "Earth is the only planet not named after a god.",
+            "posted": 0
+        },
+        {
+            "id": 212,
+            "fact": "Koalas never drink water. They get fluids from the eucalyptus leaves they eat.",
+            "posted": 0
+        },
+        {
+            "id": 213,
+            "fact": "Ballroom dancing is a major at Brigham University.",
+            "posted": 0
+        },
+        {
+            "id": 214,
+            "fact": "Orange Juice naturally contains a small amount of alcohol.",
+            "posted": 0
+        },
+        {
+            "id": 215,
+            "fact": "The lifespan of 75 percent of wild birds is 6 months. ",
+            "posted": 0
+        },
+        {
+            "id": 216,
+            "fact": "Chuck Norris has already been to Mars; that’s why there are no signs of life.",
+            "posted": 0
+        },
+        {
+            "id": 217,
+            "fact": "An average human scalp has 100,000 hairs.",
+            "posted": 0
+        },
+        {
+            "id": 218,
+            "fact": "The most popular first name in the world is Muhammad.",
+            "posted": 0
+        },
+        {
+            "id": 219,
+            "fact": "A group of toads is called a knot.",
+            "posted": 0
+        },
+        {
+            "id": 220,
+            "fact": "The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida.",
+            "posted": 0
+        },
+        {
+            "id": 221,
+            "fact": "It takes the stomach an hour to break down cows’ milk.",
+            "posted": 0
+        },
+        {
+            "id": 222,
+            "fact": "Until 1997, there were more pigs than people in Denmark.",
+            "posted": 0
+        },
+        {
+            "id": 223,
+            "fact": "Rodent's teeth never stop growing.",
+            "posted": 0
+        },
+        {
+            "id": 224,
+            "fact": "Half of all bank robberies take place on a Friday.",
+            "posted": 0
+        },
+        {
+            "id": 225,
+            "fact": "Honey is the only food that doesn’t spoil.",
+            "posted": 0
+        },
+        {
+            "id": 226,
+            "fact": "The Olympic was the sister ship of the Titanic, and she provided twenty-five years of service.",
+            "posted": 0
+        },
+        {
+            "id": 227,
+            "fact": "Like fingerprints, everyone's tongue print is different!",
+            "posted": 0
+        },
+        {
+            "id": 228,
+            "fact": "The national anthem of Greece has 158 verses.",
+            "posted": 0
+        },
+        {
+            "id": 229,
+            "fact": "All totalled, the sunlight that strikes Earth at any given moment weighs as much as an ocean liner.",
+            "posted": 0
+        },
+        {
+            "id": 230,
+            "fact": "Fear of spiders is aracnaphobia, fear of tight spaces is chlaustraphobia, fear of Chuck Norris is called Logic",
+            "posted": 0
+        },
+        {
+            "id": 231,
+            "fact": "Louisiana's capital building is the tallest one of any U.S. state.",
+            "posted": 0
+        },
+        {
+            "id": 232,
+            "fact": "All porcupines float in water.",
+            "posted": 0
+        },
+        {
+            "id": 233,
+            "fact": "There is actually no danger in swimming right after you eat, though it may feel uncomfortable.",
+            "posted": 0
+        },
+        {
+            "id": 234,
+            "fact": "More than 1,000 different languages are spoken on the continent of Africa.",
+            "posted": 0
+        },
+        {
+            "id": 235,
+            "fact": "Ancient Egyptian priests would pluck every hair from their bodies.",
+            "posted": 0
+        },
+        {
+            "id": 236,
+            "fact": "About 25% of all iceberg lettuce is made into fresh cut salads.",
+            "posted": 0
+        },
+        {
+            "id": 237,
+            "fact": "Cats have over one hundred vocal sounds, while dogs only have about ten.",
+            "posted": 0
+        },
+        {
+            "id": 238,
+            "fact": "Your stomach has to produce a new layer of mucus every two weeks otherwise it will digest itself",
+            "posted": 0
+        },
+        {
+            "id": 239,
+            "fact": "Rats multiply so quickly that in 18 months, two rats could have over million descendants.",
+            "posted": 0
+        },
+        {
+            "id": 240,
+            "fact": "The first streetlights in America were installed in Philadelphia around 1757.",
+            "posted": 0
+        },
+        {
+            "id": 241,
+            "fact": "Sex is biochemically no different from eating large quantities of chocolate.",
+            "posted": 0
+        },
+        {
+            "id": 242,
+            "fact": "Thirty-five percent of the people who use personal ads for dating are already married.",
+            "posted": 0
+        },
+        {
+            "id": 243,
+            "fact": "Our eyes are always the same size from birth but our nose and ears never stop growing.",
+            "posted": 0
+        },
+        {
+            "id": 244,
+            "fact": "Nutritious food costs 10 times as much as junk food.",
+            "posted": 0
+        },
+        {
+            "id": 245,
+            "fact": "It is impossible to lick your elbow.",
+            "posted": 0
+        },
+        {
+            "id": 246,
+            "fact": "Mosquitoes can be annoying insects but did you know that it’s only the female mosquito that actually bites humans.",
+            "posted": 0
+        },
+        {
+            "id": 247,
+            "fact": "Once the cop pulled over Chuck Norris….the cop was lucky to leave with a warning.",
+            "posted": 0
+        },
+        {
+            "id": 248,
+            "fact": "The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.",
+            "posted": 0
+        },
+        {
+            "id": 249,
+            "fact": "Kite flying is a professional sport in Thailand.",
+            "posted": 0
+        },
+        {
+            "id": 250,
+            "fact": "The U.S. bought Alaska for 2 cents an acre from Russia.",
+            "posted": 0
+        },
+        {
+            "id": 251,
+            "fact": "An ostrich's eye is bigger than its brain.",
+            "posted": 0
+        },
+        {
+            "id": 252,
+            "fact": "Degringolade means to fall and disintegrate.",
+            "posted": 0
+        },
+        {
+            "id": 253,
+            "fact": "Pinocchio is Italian for 'pine head.'",
+            "posted": 0
+        },
+        {
+            "id": 254,
+            "fact": "A standard grave is 7'8 x 3'2 x 6.",
+            "posted": 0
+        },
+        {
+            "id": 255,
+            "fact": "There is a city called Rome on every continent.",
+            "posted": 0
+        },
+        {
+            "id": 256,
+            "fact": "13% of Americans actually believe that some parts of the moon are made of cheese.",
+            "posted": 0
+        },
+        {
+            "id": 257,
+            "fact": "President John F Kennedy could read 4 newspapers in 20 minutes.",
+            "posted": 0
+        },
+        {
+            "id": 258,
+            "fact": "The venom of the Australian Brown Snake is so powerful only 1/14,000th of an ounce is enough to kill a human.",
+            "posted": 0
+        },
+        {
+            "id": 259,
+            "fact": "Honey is the only food that does not spoil.",
+            "posted": 0
+        },
+        {
+            "id": 260,
+            "fact": "Peter Falk, who played 'Columbo,' has a glass eye.",
+            "posted": 0
+        },
+        {
+            "id": 261,
+            "fact": "To wear a “visor” on your helmet in the NFL, you have to have a doctors note. Almost all the visors in the NFL are prescription.",
+            "posted": 0
+        },
+        {
+            "id": 262,
+            "fact": "Chuck Norris can light a fire by rubbing two ice-cubes together.",
+            "posted": 0
+        },
+        {
+            "id": 263,
+            "fact": "Emus and kangaroos can't walk backwards.",
+            "posted": 0
+        },
+        {
+            "id": 264,
+            "fact": "Average lifespan of a major league baseball: 5 pitches.",
+            "posted": 0
+        },
+        {
+            "id": 265,
+            "fact": "Nepal is the only country that doesn’t have a rectangular flag.",
+            "posted": 0
+        },
+        {
+            "id": 266,
+            "fact": "China's largest city is Shanghai.",
+            "posted": 0
+        },
+        {
+            "id": 267,
+            "fact": "The most sensitive cluster of nerves is at the base of the spine.",
+            "posted": 0
+        },
+        {
+            "id": 268,
+            "fact": "In the Durango desert, in Mexico, there's a creepy spot called the Zone of Silence. You can't pick up clear TV or radio signals. And locals say fireballs sometimes appear in the sky.",
+            "posted": 0
+        },
+        {
+            "id": 269,
+            "fact": "The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.",
+            "posted": 0
+        },
+        {
+            "id": 270,
+            "fact": "Because of a large orbital eccentricity, Pluto was closer to the sun than Neptune between January 1979 and March 1999.",
+            "posted": 0
+        },
+        {
+            "id": 271,
+            "fact": "Banging your head against a wall uses 150 calories an hour.",
+            "posted": 0
+        },
+        {
+            "id": 272,
+            "fact": "According to the Texas Department of Transportation, one person is killed annually painting stripes on the state's highways and roads.",
+            "posted": 0
+        },
+        {
+            "id": 273,
+            "fact": "It takes 12,000 head of cattle to produce one pound of adrenaline.",
+            "posted": 0
+        },
+        {
+            "id": 274,
+            "fact": "You share your birthday with at least 9 million other people in the world.",
+            "posted": 0
+        },
+        {
+            "id": 275,
+            "fact": "The shortest British monarch was Charles I, who was 4 feet 9 inches.",
+            "posted": 0
+        },
+        {
+            "id": 276,
+            "fact": "A group of hares is called a Husk.",
+            "posted": 0
+        },
+        {
+            "id": 277,
+            "fact": "25% of a human’s bones are in its feet.",
+            "posted": 0
+        },
+        {
+            "id": 278,
+            "fact": "Pepsi originally contained pepsin, thus the name. ",
+            "posted": 0
+        },
+        {
+            "id": 279,
+            "fact": "In most watch advertisements the time displayed on a watch is 10:10.",
+            "posted": 0
+        },
+        {
+            "id": 280,
+            "fact": "A two-bit moon is in its first quarter.",
+            "posted": 0
+        },
+        {
+            "id": 281,
+            "fact": "The only capital letter in the Roman alphabet with exactly one end point is P. ",
+            "posted": 0
+        },
+        {
+            "id": 282,
+            "fact": "One in every 4 Americans has appeared on television.",
+            "posted": 0
+        },
+        {
+            "id": 283,
+            "fact": "In 1845, ice shipped to Tallahassee cost $1 per pound.",
+            "posted": 0
+        },
+        {
+            "id": 284,
+            "fact": "Human thighbones are stronger than concrete.",
+            "posted": 0
+        },
+        {
+            "id": 285,
+            "fact": "Dr. Seuss pronounced his name so that it would rhyme with rejoice.",
+            "posted": 0
+        },
+        {
+            "id": 286,
+            "fact": "Babe Ruth wore a cabbage leaf under his cap to keep him cool! He changed it every 2 innings!",
+            "posted": 0
+        },
+        {
+            "id": 287,
+            "fact": "Beethoven dipped his head in cold water before he composed.",
+            "posted": 0
+        },
+        {
+            "id": 288,
+            "fact": "Fishing is the biggest participant sport in the world.",
+            "posted": 0
+        },
+        {
+            "id": 289,
+            "fact": "Golden toads are so rare that a biological reserve has been specifically created for them.",
+            "posted": 0
+        },
+        {
+            "id": 290,
+            "fact": "Cats’ urine glows under a black light.",
+            "posted": 0
+        },
+        {
+            "id": 291,
+            "fact": "A snail can have 25,000 teeth.",
+            "posted": 0
+        },
+        {
+            "id": 292,
+            "fact": "28% of Africa is classified as wilderness. In North America, its 38%.",
+            "posted": 0
+        },
+        {
+            "id": 293,
+            "fact": "At room temperature, the average air molecule travels at the speed of a rifle bullet.",
+            "posted": 0
+        },
+        {
+            "id": 294,
+            "fact": "Sir Isaac Newton was only 23 years old when he discovered the law of universal gravitation.",
+            "posted": 0
+        },
+        {
+            "id": 295,
+            "fact": "According to Douglas Adams, a Salween is the faint taste of dishwashing liquid in a cup of fresh tea.",
+            "posted": 0
+        },
+        {
+            "id": 296,
+            "fact": "A Flemish artist is responsible for the world's smallest paintings in history. It is a picture of a miller and his mill, and it was painted onto a grain of corn.",
+            "posted": 0
+        },
+        {
+            "id": 297,
+            "fact": "Insects outnumber humans 100,000,000 to one.",
+            "posted": 0
+        },
+        {
+            "id": 298,
+            "fact": "A word or sentence that is the same front and back (racecar, kayak) is called a 'palindrome'.",
+            "posted": 0
+        },
+        {
+            "id": 299,
+            "fact": "Chuck Norris counted to infinity – twice.",
+            "posted": 0
+        },
+        {
+            "id": 300,
+            "fact": "A cubic mile of fog is made up of less than a gallon of water.",
+            "posted": 0
+        },
+        {
+            "id": 301,
+            "fact": "In the UK, there is no act of parliament making it illegal to commit murder. Murder is only illegal due to legal precedent.",
+            "posted": 0
+        },
+        {
+            "id": 302,
+            "fact": "Chewing gum while peeling onions will keep you from crying!",
+            "posted": 0
+        },
+        {
+            "id": 303,
+            "fact": "Bruce Lee was so fast that they had to slow the film down so you could see his moves.",
+            "posted": 0
+        },
+        {
+            "id": 304,
+            "fact": "Eggs contain most of the recognised vitamins with the exception of vitamin C.",
+            "posted": 0
+        },
+        {
+            "id": 305,
+            "fact": "The mother of Michael Nesmith of 'The Monkees' invented whiteout.",
+            "posted": 0
+        },
+        {
+            "id": 306,
+            "fact": "One quarter of the bones in your body, are in your feet!",
+            "posted": 0
+        },
+        {
+            "id": 307,
+            "fact": "The Brimstone butterfly (Gonepterix rhamni) has the longest lifetime of the adult butterflies: 9-10 months.",
+            "posted": 0
+        },
+        {
+            "id": 308,
+            "fact": "Guns are warned not to play with Chuck Norris.",
+            "posted": 0
+        },
+        {
+            "id": 309,
+            "fact": "Brachiosaurus had a heart the size of a pickup truck.",
+            "posted": 0
+        },
+        {
+            "id": 310,
+            "fact": "Canada' is an Indian word meaning 'Big Village'.",
+            "posted": 0
+        },
+        {
+            "id": 311,
+            "fact": "Chuck Norris can win a game of Connect Four in only three moves.",
+            "posted": 0
+        },
+        {
+            "id": 312,
+            "fact": "On average a hedgehog's heart beats 300 times a minute.",
+            "posted": 0
+        },
+        {
+            "id": 313,
+            "fact": "It's possible to lead a cow upstairs...but not downstairs.",
+            "posted": 0
+        },
+        {
+            "id": 314,
+            "fact": "A crocodiles mouth is attached to the roof of its mouth.",
+            "posted": 0
+        },
+        {
+            "id": 315,
+            "fact": "Benjamin Franklin was the fifth in a series of the youngest son of the youngest son.",
+            "posted": 0
+        },
+        {
+            "id": 316,
+            "fact": "The Portuguese jellyfish tentacles have been known to grow a mile in length, catching anything in it's path by stinging it's prey.",
+            "posted": 0
+        },
+        {
+            "id": 317,
+            "fact": "Frog-eating bats identify edible from poisonous frogs by listening to the mating calls of male frogs. Frogs counter by hiding and using short, difficult to locate calls.",
+            "posted": 0
+        },
+        {
+            "id": 318,
+            "fact": "Ghosts appear in 4 Shakespearian plays; Julius Caesar, Richard III, Hamlet and Macbeth.",
+            "posted": 0
+        },
+        {
+            "id": 319,
+            "fact": "A giraffe can clean its ears with its 21-inch tongue!",
+            "posted": 0
+        },
+        {
+            "id": 320,
+            "fact": "Cat's urine glows under a blacklight.",
+            "posted": 0
+        },
+        {
+            "id": 321,
+            "fact": "There was once an undersea post office in the Bahamas.",
+            "posted": 0
+        },
+        {
+            "id": 322,
+            "fact": "The San Francisco Cable cars are the only mobile National Monuments",
+            "posted": 0
+        },
+        {
+            "id": 323,
+            "fact": "No word in the English language rhymes with 'MONTH'.",
+            "posted": 0
+        },
+        {
+            "id": 324,
+            "fact": "Sugar was first added to chewing gum in 1869 by a dentist, William Semple.",
+            "posted": 0
+        },
+        {
+            "id": 325,
+            "fact": "If a frog's mouth is held open for too long the frog will suffocate.",
+            "posted": 0
+        },
+        {
+            "id": 326,
+            "fact": "The penguin is the only bird that can swim but can't fly.",
+            "posted": 0
+        },
+        {
+            "id": 327,
+            "fact": "In 1990, Engineers digging a railway tunnel under the English Channel broke through the last dividing rock and joined Britain to mainland Europe for the first time since the Ice Age.",
+            "posted": 0
+        },
+        {
+            "id": 328,
+            "fact": "Chameleons can move their eyes in two directions at the same time.",
+            "posted": 0
+        },
+        {
+            "id": 329,
+            "fact": "A group of crows is called a murder.",
+            "posted": 0
+        },
+        {
+            "id": 330,
+            "fact": "The human brain is about 75% water.",
+            "posted": 0
+        },
+        {
+            "id": 331,
+            "fact": "A sheep, a duck and a rooster were the first animals to fly in a hot air balloon. The oldest breed of a dog known to mankind is the ‘Saluki’. ",
+            "posted": 0
+        },
+        {
+            "id": 332,
+            "fact": "In Kentucky, it is illegal to carry ice-cream in your back pocket.",
+            "posted": 0
+        },
+        {
+            "id": 333,
+            "fact": "Columbia University is the second largest landowner in New York City, after the Catholic Church.",
+            "posted": 0
+        },
+        {
+            "id": 334,
+            "fact": "A group of frogs is called an army.",
+            "posted": 0
+        },
+        {
+            "id": 335,
+            "fact": "In the Arctic, the sun sometimes appears to be square.",
+            "posted": 0
+        },
+        {
+            "id": 336,
+            "fact": "There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).",
+            "posted": 0
+        },
+        {
+            "id": 337,
+            "fact": "For much of the way, the Lewis and Clark expedition was led by a woman, Sacagawea, a Shoshone Indian. That's where that saying came from... Behind every successful man, there is a woman with a road map.",
+            "posted": 0
+        },
+        {
+            "id": 338,
+            "fact": "King Louis XIX ruled France for 15 minutes.",
+            "posted": 0
+        },
+        {
+            "id": 339,
+            "fact": "The rhinoceros beetle is the strongest animal and is capable of lifting 850 times its own weight.",
+            "posted": 0
+        },
+        {
+            "id": 340,
+            "fact": "Grapes explode when you put them in the microwave. Go on, try it then",
+            "posted": 0
+        },
+        {
+            "id": 341,
+            "fact": "In a tradition dating to the begining of the Westminster system of government, the bench in the middle of a Westminster parliarment is two and a half sword lengths long. This was so the government and oppositon couldn't have a go at each other if it all got a bit heated",
+            "posted": 0
+        },
+        {
+            "id": 342,
+            "fact": "A man named Charles Osborne had the hiccups for 69 years!",
+            "posted": 0
+        },
+        {
+            "id": 343,
+            "fact": "In 1386, a pig in France was executed by public hanging for the murder of a child",
+            "posted": 0
+        },
+        {
+            "id": 344,
+            "fact": "Korfball is the only sport played with mixed teams, consisting of 4 men and 4 women.",
+            "posted": 0
+        },
+        {
+            "id": 345,
+            "fact": "The horn of a rhinoceros is made from compacted hair rather than bone or another substance.",
+            "posted": 0
+        },
+        {
+            "id": 346,
+            "fact": "Grocers don’t have to tell you where your salad comes from.",
+            "posted": 0
+        },
+        {
+            "id": 347,
+            "fact": "There is a city in Norway called 'Hell'",
+            "posted": 0
+        },
+        {
+            "id": 348,
+            "fact": "The official beverage of Ohio is tomato juice.",
+            "posted": 0
+        },
+        {
+            "id": 349,
+            "fact": "Coconuts kill about 150 people each year. That’s more than sharks.",
+            "posted": 0
+        },
+        {
+            "id": 350,
+            "fact": "Ethernet is a registered trademark of Xerox, Unix is a registered trademark of AT&T.",
+            "posted": 0
+        },
+        {
+            "id": 351,
+            "fact": "John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son.",
+            "posted": 0
+        },
+        {
+            "id": 352,
+            "fact": "Iron nails cannot be used in aok because the acid in the wood corrodes them.",
+            "posted": 0
+        },
+        {
+            "id": 353,
+            "fact": "When we think of Big Ben in London, we think of the clock. Actually, it's the bell.",
+            "posted": 0
+        },
+        {
+            "id": 354,
+            "fact": "At any given time, there are 1,800 thunderstorms in progress over the earth's atmosphere.",
+            "posted": 0
+        },
+        {
+            "id": 355,
+            "fact": "Chuck Norris made a Happy Meal cry.",
+            "posted": 0
+        },
+        {
+            "id": 356,
+            "fact": "You is the second most spoken English word",
+            "posted": 0
+        },
+        {
+            "id": 357,
+            "fact": "The first CD pressed in the US was Bruce Springsteen’s 'Born in the USA'.",
+            "posted": 0
+        },
+        {
+            "id": 358,
+            "fact": "Isaac Asimov is the only author to have a book in every Dewey-decimal category.",
+            "posted": 0
+        },
+        {
+            "id": 359,
+            "fact": "Elwood Edwards did the voice for the AOL sound files (i.e. 'You’ve got Mail!').",
+            "posted": 0
+        },
+        {
+            "id": 360,
+            "fact": "Rhythm is the longest English word without a vowel.",
+            "posted": 0
+        },
+        {
+            "id": 361,
+            "fact": "Chuck Norris runs until the treadmill gets tired",
+            "posted": 0
+        },
+        {
+            "id": 362,
+            "fact": "The average cough comes out of your mouth at 60 miles (96.5 km) per hour.",
+            "posted": 0
+        },
+        {
+            "id": 363,
+            "fact": "Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.",
+            "posted": 0
+        },
+        {
+            "id": 364,
+            "fact": "In the 40's, the Bich pen was changed to Bic for fear that Americans would pronounce it 'Bitch.'",
+            "posted": 0
+        },
+        {
+            "id": 365,
+            "fact": "All the gold produced in the past five hundred years, if melted, could be compressed into a 50-foot cube.",
+            "posted": 0
+        },
+        {
+            "id": 366,
+            "fact": "The electric chair was invented by a dentist.",
+            "posted": 0
+        },
+        {
+            "id": 367,
+            "fact": "The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.",
+            "posted": 0
+        },
+        {
+            "id": 368,
+            "fact": "The 'save' icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.",
+            "posted": 0
+        },
+        {
+            "id": 369,
+            "fact": "Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain.",
+            "posted": 0
+        },
+        {
+            "id": 370,
+            "fact": "In downtown Lima, Peru, there is a large brass statue dedicated to Winnie-the-Pooh.",
+            "posted": 0
+        },
+        {
+            "id": 371,
+            "fact": "40% of McDonald’s profits come from the sales of Happy Meals.",
+            "posted": 0
+        },
+        {
+            "id": 372,
+            "fact": "Sherlock Holmes NEVER said 'Elementary, my dear Watson'",
+            "posted": 0
+        },
+        {
+            "id": 373,
+            "fact": "Bats always turn left when exiting a cave.",
+            "posted": 0
+        },
+        {
+            "id": 374,
+            "fact": "Buckingham Palace has 602 rooms.",
+            "posted": 0
+        },
+        {
+            "id": 375,
+            "fact": "Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.",
+            "posted": 0
+        },
+        {
+            "id": 376,
+            "fact": "A downburst is a downward blowing wind that sometimes comes blasting out of a thunderstorm. The damage looks like tornado damage, since the wind can be as strong as an F2 tornado, but debris is blown straight away from a point on the ground. It's not lifted into the air and transported downwind.",
+            "posted": 0
+        },
+        {
+            "id": 377,
+            "fact": "The average person falls asleep in seven minutes.",
+            "posted": 0
+        },
+        {
+            "id": 378,
+            "fact": "Maine is the only state that has borders with only one other state.",
+            "posted": 0
+        },
+        {
+            "id": 379,
+            "fact": "The average Japanese household watches more than 10 hours of television a day.",
+            "posted": 0
+        },
+        {
+            "id": 380,
+            "fact": "At latitude 60 degrees south you can sail all the way around the world.",
+            "posted": 0
+        },
+        {
+            "id": 381,
+            "fact": "Orcas (killer whales) kill sharks by torpedoing up into to shark’s stomach from underneath, causing the shark to explode.",
+            "posted": 0
+        },
+        {
+            "id": 382,
+            "fact": "During his entire life, Vincent Van Gogh sold exactly one painting, Red Vineyard at Arles.",
+            "posted": 0
+        },
+        {
+            "id": 383,
+            "fact": "Ernest Vincent Wright wrote a 50,000 word novel Gatsby without any word containing 'e.'",
+            "posted": 0
+        },
+        {
+            "id": 384,
+            "fact": "If you rate this 5 roundhouse kicks, then Chuck Norris WILL roundhouse kick Justin Bieber’s ass.",
+            "posted": 0
+        },
+        {
+            "id": 385,
+            "fact": "A duck’s quack doesn’t echo, and no one knows why.",
+            "posted": 0
+        },
+        {
+            "id": 386,
+            "fact": "There are presently over a million animal species upon planet earth. ",
+            "posted": 0
+        },
+        {
+            "id": 387,
+            "fact": "Laredo, Texas is the U.S.'s farthest inland port.",
+            "posted": 0
+        },
+        {
+            "id": 388,
+            "fact": "Lightning strikes the earth about 8 million times a day.",
+            "posted": 0
+        },
+        {
+            "id": 389,
+            "fact": "Jamaica has the most churches per square mile than any other country in the world.",
+            "posted": 0
+        },
+        {
+            "id": 390,
+            "fact": "Bird droppings are chief export of Nauru, an island nation in the Western Pacific.",
+            "posted": 0
+        },
+        {
+            "id": 391,
+            "fact": "It takes the insect-eating Venus Flytrap plant only half a second to shut its trap on its prey.",
+            "posted": 0
+        },
+        {
+            "id": 392,
+            "fact": "Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.",
+            "posted": 0
+        },
+        {
+            "id": 393,
+            "fact": "Non-dairy creamer is flammable.",
+            "posted": 0
+        },
+        {
+            "id": 394,
+            "fact": "A person from Glasgow is called a Glaswegian.",
+            "posted": 0
+        },
+        {
+            "id": 395,
+            "fact": "Clinophobia is the fear of beds.",
+            "posted": 0
+        },
+        {
+            "id": 396,
+            "fact": "The 'spot' on the 7-Up logo comes from its inventor who had red eyes. He was an albino.",
+            "posted": 0
+        },
+        {
+            "id": 397,
+            "fact": "Happy as a clam is from the expression happy as a clam at high tide. Clams are only harvested when the tide is out.",
+            "posted": 0
+        },
+        {
+            "id": 398,
+            "fact": "Nutmeg is extremely poisonous if injected intravenously. ",
+            "posted": 0
+        },
+        {
+            "id": 399,
+            "fact": "A donkey will sink in quicksand but a mule won't.",
+            "posted": 0
+        },
+        {
+            "id": 400,
+            "fact": "A mole can dig over 250 feet of tunnel in a single night.",
+            "posted": 0
+        },
+        {
+            "id": 401,
+            "fact": "Coffee is the world’s most recognizable smell.",
+            "posted": 0
+        },
+        {
+            "id": 402,
+            "fact": "The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.",
+            "posted": 0
+        },
+        {
+            "id": 403,
+            "fact": "In the last 4000 years no new animals have been domesticated.",
+            "posted": 0
+        },
+        {
+            "id": 404,
+            "fact": "Lemons contain more sugar than strawberries",
+            "posted": 0
+        },
+        {
+            "id": 405,
+            "fact": "God is not mentioned once in the book of Esther.",
+            "posted": 0
+        },
+        {
+            "id": 406,
+            "fact": "A wind with a speed of 74 miles or more is designated a hurricane.",
+            "posted": 0
+        },
+        {
+            "id": 407,
+            "fact": "Elephants have the longest pregnancy in the animal kingdom at 22 months. The longest human pregnancy on record is 17 months, 11 days.",
+            "posted": 0
+        },
+        {
+            "id": 408,
+            "fact": "Peanuts can be used for a component to make Dynamite.",
+            "posted": 0
+        },
+        {
+            "id": 409,
+            "fact": "In the 1930′s, American track star Jesse Owens used to race against horses and dogs to earn a living.",
+            "posted": 0
+        },
+        {
+            "id": 410,
+            "fact": "California has issued 6 drivers licenses to people named 'Jesus Christ.'",
+            "posted": 0
+        },
+        {
+            "id": 411,
+            "fact": "Americans on average eat 18 acres of pizza every day.",
+            "posted": 0
+        },
+        {
+            "id": 412,
+            "fact": "Chuck Norris can cut through a hot knife with butter",
+            "posted": 0
+        },
+        {
+            "id": 413,
+            "fact": "Right handed people live, on average, nine years longer than left handed people do.",
+            "posted": 0
+        },
+        {
+            "id": 414,
+            "fact": "One in ten people live on an island.",
+            "posted": 0
+        },
+        {
+            "id": 415,
+            "fact": "Peanuts are one of the ingredients of dynamite.",
+            "posted": 0
+        },
+        {
+            "id": 416,
+            "fact": "The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. ",
+            "posted": 0
+        },
+        {
+            "id": 417,
+            "fact": "No matter where you stand in Michigan, you are never more than 85 miles from a Great Lake.",
+            "posted": 0
+        },
+        {
+            "id": 418,
+            "fact": "Albert Einstein and Charles Darwin both married their first cousins",
+            "posted": 0
+        },
+        {
+            "id": 419,
+            "fact": "In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark",
+            "posted": 0
+        },
+        {
+            "id": 420,
+            "fact": "A crocodile cannot stick its tongue out.",
+            "posted": 0
+        },
+        {
+            "id": 421,
+            "fact": "When Chuck Norris does a pushup, he isn’t lifting himself up, he’s pushing the Earth down.",
+            "posted": 0
+        },
+        {
+            "id": 422,
+            "fact": "In America you will see an average of 500 advertisements a day.",
+            "posted": 0
+        },
+        {
+            "id": 423,
+            "fact": "Winston Churchill was born in a ladies room during a dance.",
+            "posted": 0
+        },
+        {
+            "id": 424,
+            "fact": "The highest point in Pennsylvania is lower than the lowest point in Colorado.",
+            "posted": 0
+        },
+        {
+            "id": 425,
+            "fact": "Every time you lick a stamp you consume 1/10 of a calorie.",
+            "posted": 0
+        },
+        {
+            "id": 426,
+            "fact": "Russians generally answer the phone by saying, 'I'm listening'.",
+            "posted": 0
+        },
+        {
+            "id": 427,
+            "fact": "Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.",
+            "posted": 0
+        },
+        {
+            "id": 428,
+            "fact": "Greenland is the largest island in the world.",
+            "posted": 0
+        },
+        {
+            "id": 429,
+            "fact": "US Dollar bills are made out of cotton and linen.",
+            "posted": 0
+        },
+        {
+            "id": 430,
+            "fact": "Woodpecker scalps, porpoise teeth, and giraffe tails have all been used as money.",
+            "posted": 0
+        },
+        {
+            "id": 431,
+            "fact": "Sharks lay the biggest eggs in the world.",
+            "posted": 0
+        },
+        {
+            "id": 432,
+            "fact": "Shaquille O’Neal wears size 22 shoes. He puts on a brand new pair before every game.",
+            "posted": 0
+        },
+        {
+            "id": 433,
+            "fact": "160 cars can drive side by side on the Monumental Axis in Brazil, the world's widest road.",
+            "posted": 0
+        },
+        {
+            "id": 434,
+            "fact": "In Cleveland, Ohio it is illegal to catch mice without a hunting license.",
+            "posted": 0
+        },
+        {
+            "id": 435,
+            "fact": "On average, 100 people choke to death on ball-point pens every year.",
+            "posted": 0
+        },
+        {
+            "id": 436,
+            "fact": "14% of Americans have skinny-dipped with a member of the opposite sex at least once.",
+            "posted": 0
+        },
+        {
+            "id": 437,
+            "fact": "Scotland has more redheads than any other part of the world.",
+            "posted": 0
+        },
+        {
+            "id": 438,
+            "fact": "The first meal on the moon was roast turkey, eaten by Niel Armstrong and Buzz Aldrin.",
+            "posted": 0
+        },
+        {
+            "id": 439,
+            "fact": "The world’s oldest piece of chewing gum is 9000 years old!",
+            "posted": 0
+        },
+        {
+            "id": 440,
+            "fact": "One in every 9000 people is an albino.",
+            "posted": 0
+        },
+        {
+            "id": 441,
+            "fact": "A group of geese on the ground is called a gaggle, a group of geese in the air is a skein.",
+            "posted": 0
+        },
+        {
+            "id": 442,
+            "fact": "It takes a sloth two weeks to digest the food it eats.",
+            "posted": 0
+        },
+        {
+            "id": 443,
+            "fact": "In May 1948, Mt Ruapehu and Mt Ngauruhoe, both in New Zealand, erupted simultaneously.",
+            "posted": 0
+        },
+        {
+            "id": 444,
+            "fact": "Humans and dolphins are the only species that have sex for pleasure.",
+            "posted": 0
+        },
+        {
+            "id": 445,
+            "fact": "Bulgarians are known to be the biggest yogurt eaters in the world.",
+            "posted": 0
+        },
+        {
+            "id": 446,
+            "fact": "Dogs and cats consume over $11 billion worth of pet food a year",
+            "posted": 0
+        },
+        {
+            "id": 447,
+            "fact": "Your heart beats over 100,000 times a day!",
+            "posted": 0
+        },
+        {
+            "id": 448,
+            "fact": "Goethe couldn't stand the sound of barking dogs and could only write if he had an apple rotting in the drawer of his desk.",
+            "posted": 0
+        },
+        {
+            "id": 449,
+            "fact": "Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.",
+            "posted": 0
+        },
+        {
+            "id": 450,
+            "fact": "Impotence is legal grounds for divorce in 24 American states.",
+            "posted": 0
+        },
+        {
+            "id": 451,
+            "fact": "A cat has 32 muscles in each ear.",
+            "posted": 0
+        },
+        {
+            "id": 452,
+            "fact": "A cat's jaw cannot move sideways.",
+            "posted": 0
+        },
+        {
+            "id": 453,
+            "fact": "Prince Charles and Prince William never travel on the same airplane in case there is a crash.",
+            "posted": 0
+        },
+        {
+            "id": 454,
+            "fact": "Of all the words in the English language, the word 'set' has the most definitions!",
+            "posted": 0
+        },
+        {
+            "id": 455,
+            "fact": "Lee Harvey Oswald's cadaver tag sold at an auction for $6,600 in 1992.",
+            "posted": 0
+        },
+        {
+            "id": 456,
+            "fact": "Due to precipitation, for a few weeks, K2 is taller than Mt. Everest.",
+            "posted": 0
+        },
+        {
+            "id": 457,
+            "fact": "The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.",
+            "posted": 0
+        },
+        {
+            "id": 458,
+            "fact": "A bolt of lighting can strike the earth with a force as great as 100 million volts.",
+            "posted": 0
+        },
+        {
+            "id": 459,
+            "fact": "In the past 60 years, the groundhog has only predicted the weather correctly 28% of the time. The rushing back and forth from burrows is believed to indicate sexual activity, not shadow seeking.",
+            "posted": 0
+        },
+        {
+            "id": 460,
+            "fact": "Chocolate can kill dogs; it directly affects their heart and nervous system.",
+            "posted": 0
+        },
+        {
+            "id": 461,
+            "fact": "If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.",
+            "posted": 0
+        },
+        {
+            "id": 462,
+            "fact": "A shrimp’s heart is in its head.",
+            "posted": 0
+        },
+        {
+            "id": 463,
+            "fact": "Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.",
+            "posted": 0
+        },
+        {
+            "id": 464,
+            "fact": "Barbie's full name is 'Babara Millicent Roberts.'",
+            "posted": 0
+        },
+        {
+            "id": 465,
+            "fact": "It is illegal to frown at cows in Bladworth, Saskatchewan.",
+            "posted": 0
+        },
+        {
+            "id": 466,
+            "fact": "A jumbo jet uses 4,000 gallons of fuel to take off.",
+            "posted": 0
+        },
+        {
+            "id": 467,
+            "fact": "The Declaration of Independence was written on hemp (marijuana) paper.",
+            "posted": 0
+        },
+        {
+            "id": 468,
+            "fact": "Angel Falls in Venezuela is the world's highest waterfall, at 3,212 feet (979 m).",
+            "posted": 0
+        },
+        {
+            "id": 469,
+            "fact": "A pregnant goldfish is called a twit.",
+            "posted": 0
+        },
+        {
+            "id": 470,
+            "fact": "A man's beard grows fastest when he anticipates sex.",
+            "posted": 0
+        },
+        {
+            "id": 471,
+            "fact": "In New York State, it is illegal to but any alcohol on Sundays before noon.",
+            "posted": 0
+        },
+        {
+            "id": 472,
+            "fact": "A polar bears skin is black. Its fur is actually clear, but like snow it appears white.",
+            "posted": 0
+        },
+        {
+            "id": 473,
+            "fact": "An animal epidemic is called an epizootic.",
+            "posted": 0
+        },
+        {
+            "id": 474,
+            "fact": "Every year, Mexico City sinks about 10 inches.",
+            "posted": 0
+        },
+        {
+            "id": 475,
+            "fact": "Rudyard Kipling, living in Vermont in the 1890's invented the game of snow golf. He would paint his golf balls red so that they could be located in the snow.",
+            "posted": 0
+        },
+        {
+            "id": 476,
+            "fact": "If you attempted to count the stars in a galaxy at a rate of one every second it would take around 3,000 years to count them all.",
+            "posted": 0
+        },
+        {
+            "id": 477,
+            "fact": "A barnacle has the largest penis of any other animal in relation to its size.",
+            "posted": 0
+        },
+        {
+            "id": 478,
+            "fact": "2,000 pounds of space dust and other space debris fall on the Earth everyday.",
+            "posted": 0
+        },
+        {
+            "id": 479,
+            "fact": "More people are afraid of open spaces (kenophobia) than of tight spaces (claustrophobia).",
+            "posted": 0
+        },
+        {
+            "id": 480,
+            "fact": "In the Andes, time is often measured by how long it takes to smoke a cigarette.",
+            "posted": 0
+        },
+        {
+            "id": 481,
+            "fact": "The February of 1865 is the only month in recorded history not to have a full moon.",
+            "posted": 0
+        },
+        {
+            "id": 482,
+            "fact": "It's against the law to burp, or sneeze in a church in Nebraska, USA.",
+            "posted": 0
+        },
+        {
+            "id": 483,
+            "fact": "The Venus's flytrap can eat a whole cheeseburger.",
+            "posted": 0
+        },
+        {
+            "id": 484,
+            "fact": "It is illegal to eat oranges while bathing in California.",
+            "posted": 0
+        },
+        {
+            "id": 485,
+            "fact": "There is a 1 in 4 chance that New York will have a white Christmas.",
+            "posted": 0
+        },
+        {
+            "id": 486,
+            "fact": "A hippo can open its mouth wide enough to fit a four foot tall child inside.",
+            "posted": 0
+        },
+        {
+            "id": 487,
+            "fact": "Banging your head against a wall uses 150 calories an hour.",
+            "posted": 0
+        },
+        {
+            "id": 488,
+            "fact": "Carrots have zero fat content.",
+            "posted": 0
+        },
+        {
+            "id": 489,
+            "fact": "In 1945 Chuck Norris drank a Redbull and jumped out a plane. For image results, Google the word Hiroshima.",
+            "posted": 0
+        },
+        {
+            "id": 490,
+            "fact": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning containing arsenic.",
+            "posted": 0
+        },
+        {
+            "id": 491,
+            "fact": "Rubber bands last longer when refrigerated.",
+            "posted": 0
+        },
+        {
+            "id": 492,
+            "fact": "A squirrel cannot contract or carry the rabies virus.",
+            "posted": 0
+        },
+        {
+            "id": 493,
+            "fact": "Cattle are the only mammals that are retro-mingent (they pee backwards).",
+            "posted": 0
+        },
+        {
+            "id": 494,
+            "fact": "Only one in two billion people will live to be 116 or older.",
+            "posted": 0
+        },
+        {
+            "id": 495,
+            "fact": "Fingernails grow nearly 4 times faster than toenails!",
+            "posted": 0
+        },
+        {
+            "id": 496,
+            "fact": "The Amazon is the world's largest river, 3,890 miles (6,259 km) long.",
+            "posted": 0
+        },
+        {
+            "id": 497,
+            "fact": "Your ribs move about 5 million times a year, every time you breathe!",
+            "posted": 0
+        },
+        {
+            "id": 498,
+            "fact": "Because metal was scarce, the Oscars given out during World War II were made of wood.",
+            "posted": 0
+        },
+        {
+            "id": 499,
+            "fact": "Every time you lick a stamp, you’re consuming 1/10 of a calorie.",
+            "posted": 0
+        },
+        {
+            "id": 500,
+            "fact": "Butterflies taste with their hind feet.",
+            "posted": 0
+        },
+        {
+            "id": 501,
+            "fact": "The average garden variety caterpillar has 248 muscles in its head.",
+            "posted": 0
+        },
+        {
+            "id": 502,
+            "fact": "The blue whale can produce the loudest sound of any animal. At 188 decibels, the noise can be detected over 800 kilometres away.",
+            "posted": 0
+        },
+        {
+            "id": 503,
+            "fact": "If the Earth was smooth, the ocean would cover the entire surface to a depth of 12,000 feet.",
+            "posted": 0
+        },
+        {
+            "id": 504,
+            "fact": "Camels have three eyelids to protect themselves from blowing sand.",
+            "posted": 0
+        },
+        {
+            "id": 505,
+            "fact": "Bulls are colorblind and will usually charge at a cape regardless of colour.",
+            "posted": 0
+        },
+        {
+            "id": 506,
+            "fact": "Some lions mate over 50 times a day.",
+            "posted": 0
+        },
+        {
+            "id": 507,
+            "fact": "Chuck Norris doesn’t call the wrong number. You answer the wrong phone.",
+            "posted": 0
+        },
+        {
+            "id": 508,
+            "fact": "The average child recognizes over 200 company logos by the time he enters first grade.",
+            "posted": 0
+        },
+        {
+            "id": 509,
+            "fact": "Maine is the only state whose name is just one syllable.",
+            "posted": 0
+        },
+        {
+            "id": 510,
+            "fact": "No word in the English language rhymes with month, orange, silver, or purple.",
+            "posted": 0
+        },
+        {
+            "id": 511,
+            "fact": "The small car on the road is probably the size of the heart of a blue whale. ",
+            "posted": 0
+        },
+        {
+            "id": 512,
+            "fact": "A coward was originally a boy who took care of cows.",
+            "posted": 0
+        },
+        {
+            "id": 513,
+            "fact": "A large flawless emerald is worth more than a similarly large flawless diamond.",
+            "posted": 0
+        },
+        {
+            "id": 514,
+            "fact": "An ostrich’s eye is bigger that it’s brain.",
+            "posted": 0
+        },
+        {
+            "id": 515,
+            "fact": "The Chicago Bulls have won all six NBA Finals in which they’ve appeared.",
+            "posted": 0
+        },
+        {
+            "id": 516,
+            "fact": "South Korea is the birthplace of taekwondo, an olympic sport since 2000.",
+            "posted": 0
+        },
+        {
+            "id": 517,
+            "fact": "There are more donut shops in Canada per capita than any other country.",
+            "posted": 0
+        },
+        {
+            "id": 518,
+            "fact": "In 10 minutes, a hurricane releases more energy than all the world’s nuclear weapons combined.",
+            "posted": 0
+        },
+        {
+            "id": 519,
+            "fact": "Truck driving is the most dangerous occupation by accidental deaths (799 in 2001).",
+            "posted": 0
+        },
+        {
+            "id": 520,
+            "fact": "A forfeited game in baseball is recorded as 9-0.",
+            "posted": 0
+        },
+        {
+            "id": 521,
+            "fact": "Chuck Norris is the reason why Waldo is hiding.",
+            "posted": 0
+        },
+        {
+            "id": 522,
+            "fact": "Polar bears are left handed.",
+            "posted": 0
+        },
+        {
+            "id": 523,
+            "fact": "40% of all people who come to a party in your home snoop in your medicine cabinet",
+            "posted": 0
+        },
+        {
+            "id": 524,
+            "fact": "To escape the grip of a crocodile’s jaws, push your thumbs into its eyeballs – it will let you go instantly.",
+            "posted": 0
+        },
+        {
+            "id": 525,
+            "fact": "Venus and Uranus are the only planets that rotate opposite to the direction of their orbit.",
+            "posted": 0
+        },
+        {
+            "id": 526,
+            "fact": "The sport Lacrosse was initially played by Native American Indians. They played the sport to prepare for war.",
+            "posted": 0
+        },
+        {
+            "id": 527,
+            "fact": "Eosophobia is the fear of dawn.",
+            "posted": 0
+        },
+        {
+            "id": 528,
+            "fact": "Locusts have leg muscles that are about 1000 times more powerful than an equal weight of human muscle.",
+            "posted": 0
+        },
+        {
+            "id": 529,
+            "fact": "Mice, whales, elephants, giraffes and man all have seven neck vertebra.",
+            "posted": 0
+        },
+        {
+            "id": 530,
+            "fact": "Want to known the appetite of a South American Giant Anteater? Well it eats over 30,000 ants, per day. ",
+            "posted": 0
+        },
+        {
+            "id": 531,
+            "fact": "Ever wonder where the phrase two bits came from? Some coins used in the American colonies before the Revolutionary War were Spanish dollars, which could be cut into pieces, or bits. Since two pieces equaled one-fourth dollar, the expression two bits came into being as a name for 25 cents.",
+            "posted": 0
+        },
+        {
+            "id": 532,
+            "fact": "In 1859, 24 rabbits were released in Austrailia. Within six years the population grew to 2 million.",
+            "posted": 0
+        },
+        {
+            "id": 533,
+            "fact": "A pound of houseflies contains more protein than a pound of beef",
+            "posted": 0
+        },
+        {
+            "id": 534,
+            "fact": "Venus observa is the technical term for the 'missionary position.'",
+            "posted": 0
+        },
+        {
+            "id": 535,
+            "fact": "A jellyfish is 95% water.",
+            "posted": 0
+        },
+        {
+            "id": 536,
+            "fact": "Chuck Norris and Superman once fought each other on a bet. The loser had to start wearing his underwear on the outside of his pants.",
+            "posted": 0
+        },
+        {
+            "id": 537,
+            "fact": "Apples, potatoes, and onions all taste the same when eaten with your nose plugged.",
+            "posted": 0
+        },
+        {
+            "id": 538,
+            "fact": "Sweden has the least number of murders annually.",
+            "posted": 0
+        },
+        {
+            "id": 539,
+            "fact": "There are 318,979,564,000 ways of playing the first four turns in a game of chess. There are 169,518,829,100,544,000,000,000,000,000 ways of playing the first ten turns of a game of chess.",
+            "posted": 0
+        },
+        {
+            "id": 540,
+            "fact": "It’s possible to lead a cow upstairs…but not downstairs.",
+            "posted": 0
+        },
+        {
+            "id": 541,
+            "fact": "Camels have three eyelids to protect themselves from blowing sand.",
+            "posted": 0
+        },
+        {
+            "id": 542,
+            "fact": "Cockroaches favorite food is the glue on the back of stamps.",
+            "posted": 0
+        },
+        {
+            "id": 543,
+            "fact": "A crocodile can’t stick it’s tongue out.",
+            "posted": 0
+        },
+        {
+            "id": 544,
+            "fact": "Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.",
+            "posted": 0
+        },
+        {
+            "id": 545,
+            "fact": "Neurons multiply at a rate 250,000 neurons per minute during early pregnancy.",
+            "posted": 0
+        },
+        {
+            "id": 546,
+            "fact": "Owls are the only birds that can see the color blue.",
+            "posted": 0
+        },
+        {
+            "id": 547,
+            "fact": "There were 240 pedestrian fatalities in New York City in 1994.",
+            "posted": 0
+        },
+        {
+            "id": 548,
+            "fact": "The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they could be confused at a crime scene.",
+            "posted": 0
+        },
+        {
+            "id": 549,
+            "fact": "Dutch painter Vincent Van Gogh cut off his left ear. His Self-portrait with the Bandaged Ear shows the right one bandaged because he painted the mirror image.",
+            "posted": 0
+        },
+        {
+            "id": 550,
+            "fact": "Gabriel, Michael, and Lucifer are the only angels named in the Bible.",
+            "posted": 0
+        },
+        {
+            "id": 551,
+            "fact": "A syzygy occurs when three atronomical bodies line up.",
+            "posted": 0
+        },
+        {
+            "id": 552,
+            "fact": "Ninety percent of New York City cabbies are recently arrived immigrants.",
+            "posted": 0
+        },
+        {
+            "id": 553,
+            "fact": "Jet lag was once called boat lag, before there were jets.",
+            "posted": 0
+        },
+        {
+            "id": 554,
+            "fact": "The average life of a taste bud is 10 days.",
+            "posted": 0
+        },
+        {
+            "id": 555,
+            "fact": "Hara kiri is an impolite way of saying the Japanese word seppuku which means, literally, belly splitting.",
+            "posted": 0
+        },
+        {
+            "id": 556,
+            "fact": "Denver, Colorado lays claim to the invention of the cheeseburger.",
+            "posted": 0
+        },
+        {
+            "id": 557,
+            "fact": "There is a hotel in Sweden built entirely out of ice; it is rebuilt every year.",
+            "posted": 0
+        },
+        {
+            "id": 558,
+            "fact": "In France, there's a place called Y.",
+            "posted": 0
+        },
+        {
+            "id": 559,
+            "fact": "The average human eats 8 spiders in their lifetime at night.",
+            "posted": 0
+        },
+        {
+            "id": 560,
+            "fact": "In Bangladesh, kids as young as 15 can be jailed for cheating on their finals.",
+            "posted": 0
+        },
+        {
+            "id": 561,
+            "fact": "Chuck Norris can build a house from the roof down",
+            "posted": 0
+        },
+        {
+            "id": 562,
+            "fact": "Chuck Norris won American Idol using only sign language",
+            "posted": 0
+        },
+        {
+            "id": 563,
+            "fact": "The Australian $5 to $100 notes are made of plastic.",
+            "posted": 0
+        },
+        {
+            "id": 564,
+            "fact": "All Hebrew originating names that end with the letters el have something to do with God.",
+            "posted": 0
+        },
+        {
+            "id": 565,
+            "fact": "In 'Silence of the Lambs', Hannibal Lector (Anthony Hopkins) never blinks.",
+            "posted": 0
+        },
+        {
+            "id": 566,
+            "fact": "Butterflies and insects have their skeletons on the outside of their bodies, called the exoskeleton. This protects the insect and keeps water inside their bodies so they don’t dry out. ",
+            "posted": 0
+        },
+        {
+            "id": 567,
+            "fact": "Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.",
+            "posted": 0
+        },
+        {
+            "id": 568,
+            "fact": "Each year there is one ton of cement poured for each man woman and child in the world. ",
+            "posted": 0
+        },
+        {
+            "id": 569,
+            "fact": "George Washington is the only man whose birthday is a legal holiday in every state of the U.S as of a few years ago.",
+            "posted": 0
+        },
+        {
+            "id": 570,
+            "fact": "American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.",
+            "posted": 0
+        },
+        {
+            "id": 571,
+            "fact": "Chuck Norris called 911 to order Chinese food and got it…..",
+            "posted": 0
+        },
+        {
+            "id": 572,
+            "fact": "A rat can last longer without water than a camel.",
+            "posted": 0
+        },
+        {
+            "id": 573,
+            "fact": "In case of an emergency, Switzerland could fit 114% of its population in bunkers",
+            "posted": 0
+        },
+        {
+            "id": 574,
+            "fact": "Strawberries are the only fruit which has its seeds on its outer skin.",
+            "posted": 0
+        },
+        {
+            "id": 575,
+            "fact": "Every US president has worn glasses (just not always in public).",
+            "posted": 0
+        },
+        {
+            "id": 576,
+            "fact": "A housefly will regurgitate its food and eat it again.",
+            "posted": 0
+        },
+        {
+            "id": 577,
+            "fact": "Stephen Hawking was born exactly 300 years after Galileo died.",
+            "posted": 0
+        },
+        {
+            "id": 578,
+            "fact": "You can't kill yourself by holding your breath",
+            "posted": 0
+        },
+        {
+            "id": 579,
+            "fact": "Sharkskin has tiny tooth-like scales all over.",
+            "posted": 0
+        },
+        {
+            "id": 580,
+            "fact": "Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. ",
+            "posted": 0
+        },
+        {
+            "id": 581,
+            "fact": "Anise is the scent on the artificial rabbit that is used in greyhound races.",
+            "posted": 0
+        },
+        {
+            "id": 582,
+            "fact": "Darker Green lettuce leaves are more nutritious than lighter green leaves.",
+            "posted": 0
+        },
+        {
+            "id": 583,
+            "fact": "Butte County, South Dakota is the geographical center of the U.S.",
+            "posted": 0
+        },
+        {
+            "id": 584,
+            "fact": "Orville Wright was involved in the first aircraft accident. His passenger, a Frenchman, was killed.",
+            "posted": 0
+        },
+        {
+            "id": 585,
+            "fact": "Bats always turn left when exiting a cave.",
+            "posted": 0
+        },
+        {
+            "id": 586,
+            "fact": "Chuck Norris can slam a revolving door.",
+            "posted": 0
+        },
+        {
+            "id": 587,
+            "fact": "The catfish has over 27000 taste buds (more than any other animal)",
+            "posted": 0
+        },
+        {
+            "id": 588,
+            "fact": "A dragonfly has a lifespan of 24 hours.",
+            "posted": 0
+        },
+        {
+            "id": 589,
+            "fact": "Pennsylvania was the first colony to legalize witchcraft.",
+            "posted": 0
+        },
+        {
+            "id": 590,
+            "fact": "The first novel ever written on a typewriter is Tom Sawyer.",
+            "posted": 0
+        },
+        {
+            "id": 591,
+            "fact": "In Washington D.C., no building can be built taller than the Capitol.",
+            "posted": 0
+        },
+        {
+            "id": 592,
+            "fact": "Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.",
+            "posted": 0
+        },
+        {
+            "id": 593,
+            "fact": "The dot over the letter 'i' is called a tittle.",
+            "posted": 0
+        },
+        {
+            "id": 594,
+            "fact": "During the chariot scene in 'Ben Hur,' a small red car can be seen in the distance.",
+            "posted": 0
+        },
+        {
+            "id": 595,
+            "fact": "More people speak English in China than the United States.",
+            "posted": 0
+        },
+        {
+            "id": 596,
+            "fact": "Although 24 out of the 30 current National Hockey League teams are located in the United States, all NHL jerseys are manufactured in Canada.",
+            "posted": 0
+        },
+        {
+            "id": 597,
+            "fact": "There used to be a street named after Chuck Norris, but it was changed because nobody crosses Chuck Norris and lives.",
+            "posted": 0
+        },
+        {
+            "id": 598,
+            "fact": "Snails can sleep for 3 years without eating",
+            "posted": 0
+        },
+        {
+            "id": 599,
+            "fact": "If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.",
+            "posted": 0
+        },
+        {
+            "id": 600,
+            "fact": "The reptiles have 6,000 species crawling in their habitats; and more are discovered each year. ",
+            "posted": 0
+        },
+        {
+            "id": 601,
+            "fact": "The flea can jump 350 times its body length. It's like a human jumping the length of a football field.",
+            "posted": 0
+        },
+        {
+            "id": 602,
+            "fact": "There are over 58 million dogs in the US",
+            "posted": 0
+        },
+        {
+            "id": 603,
+            "fact": "If you toss a penny 10,000 times it will not be heads 5000 times but more like 4950. The head picture weighs more, so it ends up on the bottom.",
+            "posted": 0
+        },
+        {
+            "id": 604,
+            "fact": "There are about 2 chickens for every human in the world.",
+            "posted": 0
+        },
+        {
+            "id": 605,
+            "fact": "Gold medals haven’t been pure gold in 96 years. The 1912 Olympics was the last time that gold medals were solid gold. Ever since, they’ve been silver with gold plating.",
+            "posted": 0
+        },
+        {
+            "id": 606,
+            "fact": "Triskaidekaphobia means fear of the number 13.",
+            "posted": 0
+        },
+        {
+            "id": 607,
+            "fact": "A Virginia law requires all bathtubs to be kept out in the yards, not inside the house.",
+            "posted": 0
+        },
+        {
+            "id": 608,
+            "fact": "During it's lifetime an oyster changes its sex from male to female and back several times.",
+            "posted": 0
+        },
+        {
+            "id": 609,
+            "fact": "EEG stands for Electroencephalogram.",
+            "posted": 0
+        },
+        {
+            "id": 610,
+            "fact": "The Beetham Tower has 47 floors.",
+            "posted": 0
+        },
+        {
+            "id": 611,
+            "fact": "Morihei Ueshiba, founder of Aikido, once pinned an opponent using only a single finger.",
+            "posted": 0
+        },
+        {
+            "id": 612,
+            "fact": "A honeybee can fly at fifteen miles per hour.",
+            "posted": 0
+        },
+        {
+            "id": 613,
+            "fact": "Construction workers hard hats were first invented and used in the building of the Hoover Dam in 1933.",
+            "posted": 0
+        },
+        {
+            "id": 614,
+            "fact": "Anteaters prefer termites to ants.",
+            "posted": 0
+        },
+        {
+            "id": 615,
+            "fact": "Official baseball rules state that an umpire may not be replaced during a game except if he becomes ill, injured, or if he dies.",
+            "posted": 0
+        },
+        {
+            "id": 616,
+            "fact": "The Guinness Book of Records holds the record for being the book most often stolen from Libraries.",
+            "posted": 0
+        },
+        {
+            "id": 617,
+            "fact": "Cuba is the only island in the Caribbean to have a railroad.",
+            "posted": 0
+        },
+        {
+            "id": 618,
+            "fact": "When honey is swallowed, it enters the blood stream within a period of 20 minutes.",
+            "posted": 0
+        },
+        {
+            "id": 619,
+            "fact": "When young, black sea basses are mostly female, but at the age of 5 years many switch sexes to male.",
+            "posted": 0
+        },
+        {
+            "id": 620,
+            "fact": "In 1936, American track star Jesse Owens beat a race horse over a 100-yard course. The horse was given a head start.",
+            "posted": 0
+        },
+        {
+            "id": 621,
+            "fact": "Giant flying foxes that live in Indonesia have wingspans of nearly six feet.",
+            "posted": 0
+        },
+        {
+            "id": 622,
+            "fact": "Giraffes and rats can last longer without water than camels.",
+            "posted": 0
+        },
+        {
+            "id": 623,
+            "fact": "Horses and cows sleep while standing up.",
+            "posted": 0
+        },
+        {
+            "id": 624,
+            "fact": "Lithuania has the highest suicide rate in the world.",
+            "posted": 0
+        },
+        {
+            "id": 625,
+            "fact": "Coca-Cola would be green if coloring weren’t added to it.",
+            "posted": 0
+        },
+        {
+            "id": 626,
+            "fact": "Two-thirds of the world’s eggplant is grown in New Jersey.",
+            "posted": 0
+        },
+        {
+            "id": 627,
+            "fact": "Corduroy comes from the French, cord du roi or cloth of the king.",
+            "posted": 0
+        },
+        {
+            "id": 628,
+            "fact": "More than 50% of the people in the world have never made or received a telephone call.",
+            "posted": 0
+        },
+        {
+            "id": 629,
+            "fact": "Australia is the richest source of mineral sands in the world.",
+            "posted": 0
+        },
+        {
+            "id": 630,
+            "fact": "A crocodile can’t move its tongue and cannot chew. Its digestive juices are so strong that it can digest a steel nail.",
+            "posted": 0
+        },
+        {
+            "id": 631,
+            "fact": "Any free moving liquid in outer space will form itself into a sphere because of its surface tension.",
+            "posted": 0
+        },
+        {
+            "id": 632,
+            "fact": "The thyroid cartilage is more commonly known as the adams apple.",
+            "posted": 0
+        },
+        {
+            "id": 633,
+            "fact": "The first female guest host of 'Saturday Night Live' was Candace Bergen.",
+            "posted": 0
+        },
+        {
+            "id": 634,
+            "fact": "An ostrich’s eye is bigger than its brain.",
+            "posted": 0
+        },
+        {
+            "id": 635,
+            "fact": "A Boeing 747s wingspan is longer than the Wright brother's first flight.",
+            "posted": 0
+        },
+        {
+            "id": 636,
+            "fact": "There is no theory of evolution. Just a list of creatures Chuck Norris has allowed to live.",
+            "posted": 0
+        },
+        {
+            "id": 637,
+            "fact": "The average human will shed 40 pounds of skin in a lifetime.",
+            "posted": 0
+        },
+        {
+            "id": 638,
+            "fact": "Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.",
+            "posted": 0
+        },
+        {
+            "id": 639,
+            "fact": "The giant squid has the largest eyes in the world. ",
+            "posted": 0
+        },
+        {
+            "id": 640,
+            "fact": "Right handed people live, on average, nine years longer than left handed people do.",
+            "posted": 0
+        },
+        {
+            "id": 641,
+            "fact": "Eagles can live in captivity for up to 46 years.",
+            "posted": 0
+        },
+        {
+            "id": 642,
+            "fact": "Dartboards are made out of horse hairs.",
+            "posted": 0
+        },
+        {
+            "id": 643,
+            "fact": "People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.",
+            "posted": 0
+        },
+        {
+            "id": 644,
+            "fact": "It’s estimated that at any one time around 0.7% of the world’s population is drunk.",
+            "posted": 0
+        },
+        {
+            "id": 645,
+            "fact": "The Hawaiian alphabet has only 12 letters.",
+            "posted": 0
+        },
+        {
+            "id": 646,
+            "fact": "If you bring a raccoon's head to the Henniker, New Hampshire town hall, you are entitled to receive $.10 from the town.",
+            "posted": 0
+        },
+        {
+            "id": 647,
+            "fact": "Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest.",
+            "posted": 0
+        },
+        {
+            "id": 648,
+            "fact": "Chuck Norris died 20 years ago, Death just hasn’t built up the courage to tell him yet.",
+            "posted": 0
+        },
+        {
+            "id": 649,
+            "fact": "Many butterflies can taste with their feet to find out whether the leaf they sit on is good to lay eggs on to be their caterpillars' food or not.",
+            "posted": 0
+        },
+        {
+            "id": 650,
+            "fact": "Apart from humans, certain species of chimpanzee are the only animals to experiment sexually. They have been known to 'wife swap' and indulge in group sex.",
+            "posted": 0
+        },
+        {
+            "id": 651,
+            "fact": "The only domestic animal not mentioned in the Bible is the cat. ",
+            "posted": 0
+        },
+        {
+            "id": 652,
+            "fact": "A 'jiffy' is the scientific name for 1/100th of a second.",
+            "posted": 0
+        },
+        {
+            "id": 653,
+            "fact": "Tasmania, Australia has the cleanest air in the inhabited world.",
+            "posted": 0
+        },
+        {
+            "id": 654,
+            "fact": "India has a Bill of Rights for cows.",
+            "posted": 0
+        },
+        {
+            "id": 655,
+            "fact": "Slugs have four noses.",
+            "posted": 0
+        },
+        {
+            "id": 656,
+            "fact": "Eating one meal of fish a week reduces your chances of getting a heart attack by 50%.",
+            "posted": 0
+        },
+        {
+            "id": 657,
+            "fact": "The banana plant can grow as high as 20 feet tall. That’s as big as a two-story house!",
+            "posted": 0
+        },
+        {
+            "id": 658,
+            "fact": "A Boeing 747's wingspan is longer than the Wright brother's first flight.",
+            "posted": 0
+        },
+        {
+            "id": 659,
+            "fact": "Possums have one of the shortest pregnancies at 16 days. The shortest human pregnancy to produce a healthy baby was 22 weeks, 6 days -- the baby was the length of a ballpoint pen.",
+            "posted": 0
+        },
+        {
+            "id": 660,
+            "fact": "When an egg floats in water, it is “off” and should not be eaten.",
+            "posted": 0
+        },
+        {
+            "id": 661,
+            "fact": "A group of officers is called a mess.",
+            "posted": 0
+        },
+        {
+            "id": 662,
+            "fact": "Kilauea (in Hawaii) is generally regarded as the world's most active volcano.",
+            "posted": 0
+        },
+        {
+            "id": 663,
+            "fact": "In Italy, it is illegal to make coffins out of anything except nutshells or wood.",
+            "posted": 0
+        },
+        {
+            "id": 664,
+            "fact": "Chevrolet tried marketing a Chevrolet Nova in Spanish speaking countries - it didn't sell well because NOVA means 'doesn't go' in Spanish.",
+            "posted": 0
+        },
+        {
+            "id": 665,
+            "fact": "The number 'four' is considered unlucky in Japan because it is pronounced the same as 'death'.",
+            "posted": 0
+        },
+        {
+            "id": 666,
+            "fact": "Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.",
+            "posted": 0
+        },
+        {
+            "id": 667,
+            "fact": "In Miami, Florida, roosting vultures have taken to snatching poodles from rooftop patios.",
+            "posted": 0
+        },
+        {
+            "id": 668,
+            "fact": "The average shelf-life of a latex condom is about two years.",
+            "posted": 0
+        },
+        {
+            "id": 669,
+            "fact": "The Boston Celtics have won the most NBA championships (17), including seven straight from 1960 to 1966.",
+            "posted": 0
+        },
+        {
+            "id": 670,
+            "fact": "Chuck Norris won the World Series of Poker using Pokemon cards",
+            "posted": 0
+        },
+        {
+            "id": 671,
+            "fact": "The US has more personal computers than the next 7 countries combined.",
+            "posted": 0
+        },
+        {
+            "id": 672,
+            "fact": "In the 17th century, the value of pi was known to 35 decimal places. Today, to 1.2411 trillion.",
+            "posted": 0
+        },
+        {
+            "id": 673,
+            "fact": "The plastic things on the end of shoelaces are called aglets.",
+            "posted": 0
+        },
+        {
+            "id": 674,
+            "fact": "In the average lifetime, a person will walk the equivalent of 5 times around the equator.",
+            "posted": 0
+        },
+        {
+            "id": 675,
+            "fact": "Dolphins can look in different directions with each eye. They can sleep with one eye open.",
+            "posted": 0
+        },
+        {
+            "id": 676,
+            "fact": "The first toilet ever seen on television was on 'Leave It to Beaver.'",
+            "posted": 0
+        },
+        {
+            "id": 677,
+            "fact": "55.1% of all US prisoners are in prison for drug offenses.",
+            "posted": 0
+        },
+        {
+            "id": 678,
+            "fact": "There are 1,792 steps in the Eiffel Tower",
+            "posted": 0
+        },
+        {
+            "id": 679,
+            "fact": "Wild Bill Hickok was killed playing poker, holding two pairs – aces and eights, which has become known as ‘Dead Man’s Hand.",
+            "posted": 0
+        },
+        {
+            "id": 680,
+            "fact": "Almonds are a member of the peach family.",
+            "posted": 0
+        },
+        {
+            "id": 681,
+            "fact": "During his entire life, Vincent Van Gogh sold exactly one painting, 'Red Vineyard at Arles'.",
+            "posted": 0
+        },
+        {
+            "id": 682,
+            "fact": "In England, the Speaker of the House is not allowed to speak.",
+            "posted": 0
+        },
+        {
+            "id": 683,
+            "fact": "Giant Arctic jellyfish have tentacles that can reach over 36 metres in length.",
+            "posted": 0
+        },
+        {
+            "id": 684,
+            "fact": "The word 'maverick' came into use after Samuel Maverick, a Texan refused to brand his cattle.",
+            "posted": 0
+        },
+        {
+            "id": 685,
+            "fact": "Gymnasiums were introduced in 900BC and Greek athletes practised in the nude to the accompaniment of music. They also performed naked at the Olympic Games.",
+            "posted": 0
+        },
+        {
+            "id": 686,
+            "fact": "In Baltimore USA it is illegal to wash or scrub a sink regardless of how dirty it is.",
+            "posted": 0
+        },
+        {
+            "id": 687,
+            "fact": "The surface of the Earth is about 60% water and 10% ice.",
+            "posted": 0
+        },
+        {
+            "id": 688,
+            "fact": "Four men in the history of boxing have been knocked out in the first eleven seconds of the first round.",
+            "posted": 0
+        },
+        {
+            "id": 689,
+            "fact": "Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.",
+            "posted": 0
+        },
+        {
+            "id": 690,
+            "fact": "Judge Judy' has a $25,000,000 salary, while Supreme Court Justice Ginsberg has a $190,100 salary.",
+            "posted": 0
+        },
+        {
+            "id": 691,
+            "fact": "People say 'bless you' when you sneeze because your heart stops for a millisecond.",
+            "posted": 0
+        },
+        {
+            "id": 692,
+            "fact": "Butterflies range in size from a tiny 1/8 inch to a huge almost 12 inches.",
+            "posted": 0
+        },
+        {
+            "id": 693,
+            "fact": "In the Caribbean, there are oysters that can climb trees.",
+            "posted": 0
+        },
+        {
+            "id": 694,
+            "fact": "It is impossible to drown and not die. Technically the term 'drowning' refers to the process of taking water into the lungs, not to death caused by that process.",
+            "posted": 0
+        },
+        {
+            "id": 695,
+            "fact": "Rats and horses can’t vomit.",
+            "posted": 0
+        },
+        {
+            "id": 696,
+            "fact": "A device invented as a primitive steam engine by the Greek engineer Hero, about the time of the birth of Christ, is used today as a rotating lawn sprinkler.",
+            "posted": 0
+        },
+        {
+            "id": 697,
+            "fact": "A 'quidnunc' is a person who is eager to know the latest news and gossip.",
+            "posted": 0
+        },
+        {
+            "id": 698,
+            "fact": "Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage.",
+            "posted": 0
+        },
+        {
+            "id": 699,
+            "fact": "A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.",
+            "posted": 0
+        },
+        {
+            "id": 700,
+            "fact": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
+            "posted": 0
+        },
+        {
+            "id": 701,
+            "fact": "The average chocolate bar has 8 insects' legs in it.",
+            "posted": 0
+        },
+        {
+            "id": 702,
+            "fact": "Some Case Moth caterpillars (Psychidae) build a case around themselves that they always carry with them. It is made of silk and pieces of plants or soil.",
+            "posted": 0
+        },
+        {
+            "id": 703,
+            "fact": "Tina Turner's real name is Annie Mae Bullock.",
+            "posted": 0
+        },
+        {
+            "id": 704,
+            "fact": "Dragonflies are capable of flying sixty miles per hour, making them one of the fastest insects. This is good since they are in a big hurry, as they only live about twenty-four hours.",
+            "posted": 0
+        },
+        {
+            "id": 705,
+            "fact": "Los Angeles’ full name is 'El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula'.",
+            "posted": 0
+        },
+        {
+            "id": 706,
+            "fact": "In Italy, a campaign for Schweppes Tonic Water translated the name into Schweppes Toilet Water.",
+            "posted": 0
+        },
+        {
+            "id": 707,
+            "fact": "A duck’s quack doesn’t echo, and no one knows why.",
+            "posted": 0
+        },
+        {
+            "id": 708,
+            "fact": "There are 41,806 different spoken languages in the world today.",
+            "posted": 0
+        },
+        {
+            "id": 709,
+            "fact": "More than 90% of the Nicaraguan people are Roman Catholic.",
+            "posted": 0
+        },
+        {
+            "id": 710,
+            "fact": "Mongolia is the largest landlocked country.",
+            "posted": 0
+        },
+        {
+            "id": 711,
+            "fact": "The people of France eat more cheese than any other country in the world.",
+            "posted": 0
+        },
+        {
+            "id": 712,
+            "fact": "As well as being a famous Looney Tunes character, the Tasmanian Devil is a real animal that is only found in the wild in Tasmania, Australia. It is the largest carnivorous marsupial in the world.",
+            "posted": 0
+        },
+        {
+            "id": 713,
+            "fact": "An ant always falls over on its right side when intoxicated.",
+            "posted": 0
+        },
+        {
+            "id": 714,
+            "fact": "Many insects can carry 50 times their own body weight. This would be like an adult person lifting two heavy cars full of people.",
+            "posted": 0
+        },
+        {
+            "id": 715,
+            "fact": "A snail can sleep for 3 years.",
+            "posted": 0
+        },
+        {
+            "id": 716,
+            "fact": "China has more English speakers than the United States.",
+            "posted": 0
+        },
+        {
+            "id": 717,
+            "fact": "The most poisonous spider is the black widow. Its venom is more potent than a rattlesnake's.",
+            "posted": 0
+        },
+        {
+            "id": 718,
+            "fact": "You do not need cotton buds to clean a giraffe ears. It can do so with its own 50cm-tongue. ",
+            "posted": 0
+        },
+        {
+            "id": 719,
+            "fact": "The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.",
+            "posted": 0
+        }
+    ]
+}
