@@ -9,9 +9,13 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.utils import ChromeType
 from selenium.webdriver.chrome.options import Options
 
+from facts import Facts
+
+twitter_home = "https://twitter.com/i/flow/login/"
+
 
 class WebBot:
-    def __init__(self, url: str) -> None:
+    def __init__(self, logger) -> None:
         options = Options()
         options.page_load_strategy = "normal"
         # options.add_argument("--headless")
@@ -24,19 +28,15 @@ class WebBot:
             options=options,
         )
 
-        self._driver.get(url)
+        self._facts = Facts()
+        self._logger = logger
 
     def close_driver(self) -> None:
         self._driver.quit()
 
     def twitter_login(self) -> None:
         try:
-            self._driver.implicitly_wait(10)
-            login_button = self._driver.find_element(
-                By.XPATH,
-                '//*[@id="react-root"]/div/div/div[2]/main/div/div/div[1]/div[1]/div/div[3]/div[5]',
-            )
-            login_button.find_element(By.TAG_NAME, "a").click()
+            self._driver.get(twitter_home)
             self._driver.implicitly_wait(10)
             username = self._driver.find_element(By.NAME, "text")
             username.send_keys(os.environ.get("USERNAME"))
@@ -64,6 +64,31 @@ class WebBot:
             ).click()
         except Exception as e:
             print(f"Error: {e}")
+            self._logger.error(f"Error in twitter login: {e}")
 
-    def tweet_useless_fact(self, fact: dict, PREPEND: str) -> bool:
-        pass
+    def tweet_useless_fact(self) -> bool:
+        try:
+            post_day = self._facts.get_post_day()
+            PREPEND = f"Useless fact #{post_day}\n"
+            TWEET_LENGTH = 280 - len(PREPEND)
+            fact = self._facts.random_fact()
+            while len(fact["fact"]) > TWEET_LENGTH:
+                fact = self._facts.random_fact()
+            tweet = PREPEND + fact["fact"]
+            print(f"Tweet is: {tweet}")
+
+            tweetbox = self._driver.find_element(
+                By.XPATH,
+                '//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div[1]/div/div[2]/div/div[2]/div[1]/div/div/div/div[2]/div[1]/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div[2]/div',
+            )
+            tweetbox.send_keys(tweet)
+            post_button = self._driver.find_element(
+                By.XPATH,
+                '//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div[1]/div/div[2]/div/div[2]/div[1]/div/div/div/div[2]/div[3]/div/div/div[2]/div[3]',
+            )
+            post_button.click()
+            self._facts.save_facts(fact=fact)
+            return True
+        except Exception as e:
+            print(f"Error in posting tweet: {e}")
+            self._logger.error(f"Error in posting tweet: {e}")

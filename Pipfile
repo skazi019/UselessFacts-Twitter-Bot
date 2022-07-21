@@ -11,6 +11,7 @@ lxml = "*"
 html5lib = "*"
 python-dotenv = "*"
 pandas = "*"
+schedule = "*"
 
 [dev-packages]
 
