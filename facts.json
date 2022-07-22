@@ -1,5 +1,5 @@
 {
-    "day": 0,
+    "day": 2,
     "facts": [
         {
             "id": 0,
@@ -1574,7 +1574,7 @@
         {
             "id": 314,
             "fact": "A crocodiles mouth is attached to the roof of its mouth.",
-            "posted": 0
+            "posted": 1
         },
         {
             "id": 315,
@@ -2609,7 +2609,7 @@
         {
             "id": 521,
             "fact": "Chuck Norris is the reason why Waldo is hiding.",
-            "posted": 0
+            "posted": 1
         },
         {
             "id": 522,

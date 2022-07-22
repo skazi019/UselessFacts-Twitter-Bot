@@ -9,7 +9,6 @@ from logger import Logger
 
 logger = Logger(filename="post_tweet.log")
 logger = logger.get_logger()
-webbot = WebBot(logger=logger)
 
 BASE_URL = os.path.abspath(os.getcwd())
 
@@ -18,6 +17,7 @@ load_dotenv(find_dotenv())
 
 def twitter_bot_activate():
     try:
+        webbot = WebBot(logger=logger)
         webbot.twitter_login()
     except Exception as e:
         print(f"Error: {e}")
@@ -27,6 +27,7 @@ def twitter_bot_activate():
         webbot.tweet_useless_fact()
     finally:
         logger.info(f"Posted tweet successfully")
+        print(f"Posted tweet successfully")
         webbot.close_driver()
 
 
