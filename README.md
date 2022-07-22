@@ -6,7 +6,7 @@
 To show people one usecase of automation which can be applied to their daily life to save time
 
 ### How?
-Tech stack
+Libraries used
  - selenium
  - schedule
 
